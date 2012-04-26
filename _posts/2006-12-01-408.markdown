@@ -1,0 +1,11 @@
+---
+title: Je aime le Francais 
+layout: post
+author: lm
+---
+<p>Je apprends le fransais depuis bientot un mois.</p>
+<p>Je va apprendre beaucoup du  francais  des maintenant.</p>
+<p>Je trouve ce site aujour d&#39;hui.</p>
+<p>Quel plaisir de te voir !</p>
+<p>Je va écrire journaux en voici tous les jours.</p>
+<p>Je fais chque jour des progres remarquables. </p>

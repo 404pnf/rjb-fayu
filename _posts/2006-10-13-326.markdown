@@ -1,0 +1,6 @@
+---
+title: le fonctionnaire 
+layout: post
+author: lm
+---
+<p>demain l'inscription de fonctionnaire va commencer , qui va passer l'examen ? bonne chance !</p>

@@ -1,0 +1,8 @@
+---
+title: mon amis 
+layout: post
+author: lm
+---
+<p>Je suis heureux de vous connaitre.</p>
+<p>J&#39;apprends le français , et je trouve le français est petit difficile......</p>
+<p>BONJOUR, TOUS LES MONDE</p>

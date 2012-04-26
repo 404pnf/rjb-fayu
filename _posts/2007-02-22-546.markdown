@@ -1,0 +1,8 @@
+---
+title: jenny parle de nouvelles 
+layout: post
+author: lm
+---
+<p>Je suis de plus en plus paresseuse, voici les nouvelles pour aj</p>
+<p>1.<a href="http://www.rfi.fr/actufr/articles/086/article_49803.asp" target="_blank"> retrait de soldats britanniques en Irak</a>.</p>
+<p>2.<a href="http://www.rfi.fr/actufr/articles/086/article_49790.asp" target="_blank"> rougeole en Corée du Nord</a>. </p>

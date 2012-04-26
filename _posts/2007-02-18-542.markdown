@@ -1,0 +1,8 @@
+---
+title: 新年快乐  
+layout: post
+author: lm
+---
+<p>新年快乐！ </p>
+<p>Happy new year! </p>
+<p> Bonne année! </p>

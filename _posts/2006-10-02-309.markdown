@@ -1,0 +1,7 @@
+---
+title: le films  
+layout: post
+author: lm
+---
+<p>aj j'ai vu deux films , un est de chinois , il s'apelle < le pierre fou > et l'autre est d'USA , un vieux film s'apelle < la redemption de Shawshank > . le dernier est le film que j'aime le plus .<br />
+la liberte est ce que le plus important pour l'homme . on est libre a faire des choses dans le controle de lois et de morale , mais il y a des hommes qui font des choses en portant des vetement raisonables . eux , ils sont les coupables . je voudrait que dans le monde il n'y a pas de sales affaires . </p>

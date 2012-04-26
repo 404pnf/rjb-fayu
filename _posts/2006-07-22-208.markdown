@@ -1,0 +1,12 @@
+---
+title: me voila 
+layout: post
+author: lm
+---
+<p>bonjour !</p>
+<p>je m'appelle Cécile.<br />
+je suis contente de vous voir ici.<br />
+et je viens de china.</p>
+<p>mon_amour_papa@hotmail<br />
+c'est m'adresse<br />
+je vous attends. </p>

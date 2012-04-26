@@ -1,0 +1,9 @@
+---
+title: jenny parle de nouvelles 
+layout: post
+author: lm
+---
+<p>Les vacances s&#39;approchent, que faites-vous pendant les vacances?</p>
+<p>Aj, on parle un peu de l&#39;économie. </p>
+<p>1.<a href="http://www.french.xinhuanet.com/french/2007-01/25/content_379607.htm" target="_blank"> forum économique mondial</a></p>
+<p> 2.<a href="http://www.lemonde.fr/web/article/0,1-0@2-3216,36-859370@51-844321,0.html" target="_blank"> la croissance économique chinoise</a> </p>

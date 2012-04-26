@@ -1,0 +1,6 @@
+---
+title: 第一天 
+layout: post
+author: lm
+---
+<p>接触法语的第一天，相信自己能够学好的！！</p>

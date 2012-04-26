@@ -1,0 +1,10 @@
+---
+title: jenny parle de nouvelles 
+layout: post
+author: lm
+---
+<p>Il semble que ma connexion d&#39;internet commence à se rétablir, une bonne nouvelle.</p>
+<p>1.un des coupables de 911 a été condamné à 15 ans de prison le 8 janvier. Moi, j&#39;insiste que les coupables reçoivent une punition.</p>
+<p>2.Le test of English as a foreign language (TOEFL) ne sera pas influencé par le séisme au Taiwan.</p>
+<p>3. La grippe et les rhumes traquent la capitale chinoise. </p>
+<p>&nbsp;</p>

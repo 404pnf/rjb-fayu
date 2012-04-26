@@ -1,0 +1,10 @@
+---
+title: reponse de film 
+layout: post
+author: lm
+---
+<p>J'aime aussi le film, t'as vu mes commentaires sur quelques films?</p>
+<p>http://www.francaisblog.com.cn/node/29<br />
+http://www.francaisblog.com.cn/fy/pivot/entry.php?id=139<br />
+http://www.francaisblog.com.cn/fy/pivot/entry.php?id=23</p>
+<p>Dsl,c'est en chinois. </p>

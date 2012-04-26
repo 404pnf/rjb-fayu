@@ -1,0 +1,6 @@
+---
+title: En Vacances 
+layout: post
+author: lm
+---
+<div id="result_box" dir="ltr">Aujourd&#39;hui, je suis en vacances. Je quitterai Harbin, je reviendrai à ma belle patrie. La route est ainsi extérieur, difficile. Cependant, je n&#39;ai pas peur de ces derniers. J&#39;appartiens à ma ville natale, quand je rencontre des difficultés, tant que j&#39;ai pensé à la maison, je n&#39;aurai pas peur. Ville natale me donnent la force, pour me donner la consolation spirituelle. Ma ville natale, coeurs d&#39;I aiment une épée. </div>

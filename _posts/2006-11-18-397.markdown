@@ -1,0 +1,6 @@
+---
+title: La société qu’est-ce qui s’est passé  
+layout: post
+author: lm
+---
+<p><span style="color: red"><font size="3"><font face="Times New Roman">Au 6<sup>e</sup> étage , un ordinateur a été volé hier soir ! on sait pas qui l’a volé , au moins , nos sécurités sont en menace ! </font></font></span><span style="color: red"><font size="3"><font face="Times New Roman">Nous leur donnons de l’argent , mais ils ne peuvent pas s’occuper de nos sécurités , alors , ils doivent être renvoyés ! il faut que les étudiants renforcent la conscience de bien se protéger , le corps et les fonds ! la police peut-être ne veut pas intégrer dans cette mission , parce qu’il y a trop de voleurs et peu de policiers ! </font></font></span><span style="font-size: 10.5pt; color: red; font-family: &#39;Times New Roman&#39;">La société , qu’est-ce qui s’est passé ? </span></p>

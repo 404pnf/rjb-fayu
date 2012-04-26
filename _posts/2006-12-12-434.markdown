@@ -1,0 +1,6 @@
+---
+title: j ai mal 
+layout: post
+author: lm
+---
+<p><span><font face="Times New Roman">J’ai mal aux tentes , j’ai mal au ventre , j’ai mal à la gorge ! j’ai mal !</font></span><span><font face="Times New Roman">Après le dîner , je me sens mal , je sais pas pourquoi , peut-être je suis intoxiquée !</font></span><span style="color: blue"></span></p>

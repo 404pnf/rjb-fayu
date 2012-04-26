@@ -1,0 +1,25 @@
+---
+title: Laquelle supportez-vous 你支持哪个队伍  
+layout: post
+author: lm
+---
+<div class="poll">
+  
+<div class="text">l&#039;Italie</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">la France</div>
+<div class="bar">
+  <div style="width: 100%;" class="foreground"></div>
+</div>
+<div class="percent">
+  100% (10 votes)
+</div>
+  <div class="total">
+    Total votes: 10  </div>
+  </div>

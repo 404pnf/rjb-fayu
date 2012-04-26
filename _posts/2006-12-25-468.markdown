@@ -1,0 +1,10 @@
+---
+title: texte sur la Suisse-1 
+layout: post
+author: lm
+---
+<h2 style="line-height: 150%"><span>Un système politique qui ressemble à celui des USA</span></h2>
+<p style="text-align: justify; text-indent: 27pt; line-height: 150%" class="MsoNormal"><span>La Suisse</span><span> fonctionne sur un système politique fédéral. </span></p>
+<p style="text-align: justify; text-indent: 27pt; line-height: 150%" class="MsoNormal"><span>La nation américaine est composée d’une cinquantaine d’Etats disposant d’une grande indépendance juridique, exécutive et financière. En Suisse, c’est un peu pareil : le pays est divisé en 26 cantons (dont six demi-cantons, qui fonctionnent comme des cantons à part entière). Chaque canton est autonome sur le plan financier, et dispose d’une constitution et d’une législation propres.</span></p>
+<p style="text-align: justify; text-indent: 27pt; line-height: 150%" class="MsoNormal"><span>Le pays est gouverné dans son ensemble par une assemblée fédérale. Certaines questions importantes sont directement soumises au peuple par référendum. Les divers votes, d’une manière plus générale, ont lieu régulièrement aux différents niveaux : communal, cantonal et national.</span></p>
+<p style="text-align: justify; text-indent: 27pt; line-height: 150%" class="MsoNormal"><span> </span></p>

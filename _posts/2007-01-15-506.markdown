@@ -1,0 +1,8 @@
+---
+title: un truc drole 
+layout: post
+author: lm
+---
+<p><img src="http://album.sina.com.cn/pic/4bc9ca8e02000iny" width="264" height="255" /> </p>
+<!--<input type="button" onclick="location.hash='#'+('url=http://image2.sina.com.cn/blog/ccvb061216/yocc061216img/vlog_i_ws_001.gif');"></input> --><!--<input type="button" onclick="location.hash='#'+('url=http://image2.sina.com.cn/blog/ccvb061216/yocc061216img/vlog_i_ws_001.gif');"></input> --><p><img src="http://secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-sina2006&amp;cg=0" width="1" height="1" /> <br />J&#39;etais vraiment choque quand je l&#39;ai vu... C&#39;est carrement drole et original!!</p>
+<p>&quot;L&#39;ennui n&#39;aura plus de place dans vos toilettes. Le papier toilette sudoku vous scotchera littéralement. Plus besoin des magazines people... &quot;</p>

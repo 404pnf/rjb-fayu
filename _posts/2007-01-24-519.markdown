@@ -1,0 +1,8 @@
+---
+title: jenny parle de nouvelles 
+layout: post
+author: lm
+---
+<p>Je suis de mauvaise humeur aj, 2 nouvelles:</p>
+<p>1.L&#39;Iran a décidé de refuser l&#39;entrée à 38 inspectateurs de l&#39;Agence internationale de l&#39;énergie atomique, et les réactions occidentales.</p>
+<p>2. Le point de vue de Ségolène Royal sur le problème québécois. </p>

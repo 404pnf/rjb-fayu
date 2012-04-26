@@ -1,0 +1,12 @@
+---
+title: bonjour 
+layout: post
+author: lm
+---
+<p>bonjour,mademoiselle,madame et monsieur:<br />
+je suis un  estudiantin .j'etudie francais en 3 moins .<br />
+mais je suis un abruti estudiantin ,je ne dis pas un complete mot .j'ai tres désolation...<br />
+mais je n'ai démoralisatio rien .<br />
+allez!allez!allez!<br />
+je sais l'abouti pour que j'aie alle !<br />
+bonne chance !</p>

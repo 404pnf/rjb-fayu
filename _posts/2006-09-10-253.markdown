@@ -1,0 +1,22 @@
+---
+title: Crier des animaux 
+layout: post
+author: lm
+---
+<p>l'agneau---------beler<br />
+l'aigle----------glatir<br />
+l'ane------------braire<br />
+boeuf------------mugir/meugler/beugler<br />
+le cerf----------bramer<br />
+le chat----------miauler<br />
+le cheval--------hennir<br />
+le chien---------hurler/aboyer/gronder/grogner<br />
+le corbeau-------croasser<br />
+la grenouille----coasser<br />
+le lion----------rugir<br />
+le pigneons------roucouler<br />
+la poule---------caquetter<br />
+le serpent-------siffler<br />
+le tigre---------rugir/rauquer</p>
+<p>aj je peux seulement trouver des mots ,si vous avez plus , ajoutez!<br />
+merci</p>

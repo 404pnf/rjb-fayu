@@ -1,0 +1,33 @@
+---
+title: 大家学法语投票了 voter pour apprenons le français vous désirez ou pas  
+layout: post
+author: lm
+---
+<div class="poll">
+  
+<div class="text">这个栏目给了我很大的帮助，我非常希望它能继续下去，并有所改进</div>
+<div class="bar">
+  <div style="width: 65%;" class="foreground"></div>
+</div>
+<div class="percent">
+  65% (15 votes)
+</div>
+
+<div class="text">我从中得到了一些帮助，希望它就以现在的方式继续下去</div>
+<div class="bar">
+  <div style="width: 30%;" class="foreground"></div>
+</div>
+<div class="percent">
+  30% (7 votes)
+</div>
+
+<div class="text">这个栏目没什么意思，我觉得它没有继续下去的必要</div>
+<div class="bar">
+  <div style="width: 4%;" class="foreground"></div>
+</div>
+<div class="percent">
+  4% (1 vote)
+</div>
+  <div class="total">
+    Total votes: 23  </div>
+  </div>

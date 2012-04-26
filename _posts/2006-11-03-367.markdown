@@ -1,0 +1,6 @@
+---
+title: mal à comprendre 
+layout: post
+author: lm
+---
+<p>Pour trouver un travail , il faut minimiser des autres ?</p>

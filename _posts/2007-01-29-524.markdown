@@ -1,0 +1,16 @@
+---
+title: jenny parle de nouvelles 
+layout: post
+author: lm
+---
+<p><span>Salut, mes amis, comment vous avez passe votre week-end? Je restais chez moi, et en profitais pour réviser une série de films magnifique-Harry Potter.</span><br />
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span>Les actualités pour aj :</span></p>
+<p style="margin-left: 18pt; text-indent: -18pt" class="MsoNormal">1. une manifestation massive anti-guerre à Washington.   </p>
+<p style="margin-left: 18pt; text-indent: -18pt" class="MsoNormal"><a name="lien" title="lien"></a></p>
+<!--[if !supportLists]--><!--[if !supportLists]--></p>
+<p style="margin-left: 18pt; text-indent: -18pt" class="MsoNormal"><span><span>2.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal">       </span></span></span></p>
+<!--[endif]--><!--[endif]--><p><span>relancement possible du cycle de Doha</span></p>
+<p style="margin-left: 18pt; text-indent: -18pt" class="MsoNormal">
+<!--[if !supportLists]--><!--[if !supportLists]--><p><span><span>3.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal">       </span></span></span></p>
+<!--[endif]--><!--[endif]--><p><span>un logiciel traducteur intéressant pour les troupes américaines en Irak</span></p>

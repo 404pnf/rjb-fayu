@@ -1,0 +1,13 @@
+---
+title: Les éthnies en Chine 
+layout: post
+author: lm
+---
+<p>Par hazard, je trouve quelques mots concernnant les éthnies en Chine. </p>
+<p>少数民族    éthnie minoritaire</p>
+<p>傣族         l&#39;éthnie dai           傣族人       les Dai</p>
+<p>汉族         l&#39;éthnie han          汉族人       les Han</p>
+<p>鄂温克族    l&#39;éthnie ewenki     鄂温克族人  les Ewenki</p>
+<p>维吾尔族    l&#39;éthnie ouïgoure   维吾尔族人  les Ouïgours</p>
+<p>蒙古族       l&#39;éthnie mongole   蒙古族人     les Mongols</p>
+<p>Le règle est simple.  On peut figurer les termes des autres éthnies.  </p>

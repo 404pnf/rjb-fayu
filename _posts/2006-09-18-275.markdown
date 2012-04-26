@@ -1,0 +1,29 @@
+---
+title: Une chanson---L a Mer Charles Trenet  
+layout: post
+author: lm
+---
+<p>La mer<br />
+Qu'on voit danser le long des golfes clairs<br />
+A des reflets d'argent<br />
+La mer<br />
+Des reflets changeants<br />
+Sous la pluie</p>
+<p>La mer<br />
+Au ciel d'été confond<br />
+Ses blancs moutons<br />
+Avec les anges si purs<br />
+La mer bergère d'azur<br />
+Infinie</p>
+<p>Voyez<br />
+Près des étangs<br />
+Ces grands roseaux mouillés<br />
+Voyez<br />
+Ces oiseaux blancs<br />
+Et ces maisons rouillées</p>
+<p>La mer<br />
+Les a bercés<br />
+Le long des golfes clairs<br />
+Et d'une chanson d'amour<br />
+La mer<br />
+A bercé mon cœur pour la vie</p>

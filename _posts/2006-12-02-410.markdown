@@ -1,0 +1,7 @@
+---
+title: mon amie 
+layout: post
+author: lm
+---
+<p>mon amie va à Beijing pour un entretien . bonne chance pour elle ! et ce soir elle utilise mon ordinateur pour réviser l&#39;informatique . cette compagnie est un peu bizarre , pourquoi tester l&#39;informatique ? peut-être sur le Word et l&#39;Excel . j&#39;ai trouvé des exercices pour elle . et j&#39;ai cherché des bus à la compagnie , il y a trop de bus ! Beijing est grand ! </p>
+<p>mon amie est intelligente !</p>

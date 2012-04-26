@@ -1,0 +1,6 @@
+---
+title: jenny parle de nouvelles 
+layout: post
+author: lm
+---
+<p>on suit l&#39;information en Irak</p>

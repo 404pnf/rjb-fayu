@@ -1,0 +1,7 @@
+---
+title: Bonjour tout le monde  
+layout: post
+author: lm
+---
+<p>Bonjour à tous!</p>
+<p>Je m'appelle keke. Je travaille à Pékin comme interpète. Je suis contente d'être avec vous!</p>
