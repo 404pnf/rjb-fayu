@@ -1,7 +1,0 @@
----
-title: jenny parle de nouvelles 
-layout: post
-author: lm
----
-<p>Bonne la fête des Lanternes!</p>
-<p>Voici les nouvelles: </p>

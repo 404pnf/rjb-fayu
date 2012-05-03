@@ -1,8 +1,0 @@
----
-title: la pluie 
-layout: post
-author: lm
----
-<p>Il pleut à torrent aj , nous sommes étranglés dans le bibliothèque pour tout l’après-midi . c’est ennuyant , la pluie .<br />
-Un étudiant de notre classe ne va pas à l’école tous les jours , et aj le directeur arrive à notre classe pour lui voir , mais tant pis il est pas là encore ! le directeur est en fauché , il menace de le renvoyer .<br />
-C’est pas mal . la société a son propre ordre , les gens vivent dans la société et ils doivent obéir les ordres ! si qn les enfreigne , on doit être puni . c’est ce que Darwin a dit : les survivances des plus aptes .</p>

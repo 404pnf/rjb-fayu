@@ -1,6 +1,0 @@
----
-title: jenny parle de nouvelles 
-layout: post
-author: lm
----
-<p>J&#39;ai vu une nouvelle intéressante sur Internet,<a href="http://french.peopledaily.com.cn/Culture/5160925.html" target="_blank">voilà </a></p>

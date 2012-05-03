@@ -1,7 +1,0 @@
----
-title: jenny parle de nouvelles 
-layout: post
-author: lm
----
-<p>Aujourd&#39;hui je vous apporte 4 nouvelles, et la dernière est à propos de moi.</p>
-<p>on y va? </p>

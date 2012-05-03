@@ -1,8 +1,0 @@
----
-title: Bravo l aquarium 
-layout: post
-author: lm
----
-<p>Hier, je suis allée à l'aquarium de Beijing. Il y avait que de monde: les enfants venant de 4 coins du pays s'y sont rassemblés au profit de leurs vacances d'été.<br />
-Bien sur j'ai vu de toutes sortes de poissons multicolors, alors ce qui m'a impressionnée beaucoup,c'était le spectacle des dauphins, magnifique!<br />
-Excusez-moi d'y mettre quelques photos floues, car ils bougent si vite.</p>

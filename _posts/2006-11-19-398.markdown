@@ -1,8 +1,0 @@
----
-title: gris 
-layout: post
-author: lm
----
-<p>Il fait un temps mauvais! Il pleut si bien que je n&#39;ai pas sorti avce mon copain.J&#39;ai le cafard!</p>
-<p>La semaine prochain, je ne rentrerai pas à la maison.Je ne sais pas trop. Je resterai dans mon dortoir pour faire les études. J&#39;espère que je serai éfficace comme ça.</p>
-<p>Ma forme est grise comme le temps.</p>

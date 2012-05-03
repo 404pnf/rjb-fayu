@@ -1,7 +1,0 @@
----
-title: j arrive 
-layout: post
-author: lm
----
-<p>j'ai entendu depuis longtemps le soit-disant Blog, mais c'est la première fois que je l'écrit.</p>
-<p>différamment de  la plupart de mes camarades qui cont choisi de travailler,je passe maintenant mes dernières vacances d'été. </p>

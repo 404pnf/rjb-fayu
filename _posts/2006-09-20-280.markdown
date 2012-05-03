@@ -1,7 +1,0 @@
----
-title: je deteste le basketball 
-layout: post
-author: lm
----
-<p>je deteste le basketball , sans raison .<br />
-tres tres tres tres tres tres tres .....................</p>

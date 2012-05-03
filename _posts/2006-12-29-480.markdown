@@ -1,7 +1,0 @@
----
-title: jenny parle de nouvelles 
-layout: post
-author: lm
----
-<p>fatiguée<img src="/modules/tinymce/tinymce/jscripts/tiny_mce/plugins/emotions/images/smiley-frown.gif" /> </p>
-<p><a href="http://www.french.xinhuanet.com/french/2006-12/29/content_367570.htm" target="_blank">livre blanc</a></p>

@@ -1,6 +1,0 @@
----
-title: joyeux noel 
-layout: post
-author: lm
----
-<p>joyeux noel a tous ici .</p>

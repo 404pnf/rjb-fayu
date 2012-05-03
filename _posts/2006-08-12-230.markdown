@@ -1,8 +1,0 @@
----
-title: La pauvre maman 
-layout: post
-author: lm
----
-<p>Je voudrais que l'on partage une phrase très mignonne que j'ai vue dans un extrait d'une composition écrite par une petite fille sur le sujet - ma maison.</p>
-<p>Son texte est comme suit:<br />
-Maintenant, mon frère a sa chambre, j'ai la mienne. Il n'y a que maman, la pauvre, qui est toujours obligée de dormir avec papa :)</p>

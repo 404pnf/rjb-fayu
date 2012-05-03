@@ -1,8 +1,0 @@
----
-title: 实习 
-layout: post
-author: lm
----
-<p><a href="mailto:joannami@vendomechina.com" title="点击发信" onclick="fGoto(&quot;fGotoSendCompose&quot;,&quot;/coremail/fcg/ldmmapp?sid=bAdjHLBBAZAPZZMdtqBBMYNUJhDznppB&amp;funcid=compose&amp;to=%22%B1%B1%BE%A9%D5%D0%BA%AE%BC%D9%CA%B5%CF%B0%D6%FA%C0%ED%22%20%3Cjoannami%40vendomechina.com%3E&quot;)"><font color="#1141a4">joannami@vendomechina.com</font></a></p>
-<p>北京旺德行</p>
-<p>招寒假实习助理，由于我在大连，太远了，所以，各位有愿意去的将简历发过去，上面的邮箱。不管大四的还是低年级的，方便的话自己联系吧！</p>

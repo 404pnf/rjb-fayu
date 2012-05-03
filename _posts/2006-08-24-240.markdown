@@ -1,7 +1,0 @@
----
-title: 大家学法语初级 5 by Françaisblog 工作室 
-layout: post
-author: lm
----
-<p><span class="inline inline-left"><a href="/fayu/node/173"><img src="http://blog.fltrp.com/fayu/files/images/5.preview.jpg" alt="初级5" title="初级5"  class="image image-preview " width="453" height="640" /></a><span class="caption" style="width: 451px;"><strong>初级5</strong></span></span><br />
-<div class="image-clear"></div>

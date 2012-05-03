@@ -1,7 +1,0 @@
----
-title: jenny parle de nouvelles 
-layout: post
-author: lm
----
-<p>On continue aujourd&#39;hui,et je parle du sida.</p>
-<p><a href="http://www.courrierinternational.com/article.asp?obj_id=68656" target="_blank">source</a></p>

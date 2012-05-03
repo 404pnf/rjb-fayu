@@ -1,7 +1,0 @@
----
-title: 学期过了1/3 
-layout: post
-author: lm
----
-<p>有点抓狂</p>
-<p>真的很难。哎。。</p>

@@ -1,9 +1,0 @@
----
-title: Je m appelle Bibliotheque...... 
-layout: post
-author: lm
----
-<p>pourquoi ?</p>
-<p>Je m&#39;appelle Bibliotheque..?? Je vais apprendre le Français bien.</p>
-<p>Le Français est difficile ....</p>
-<p>Bien, c&#39;est ça.</p>

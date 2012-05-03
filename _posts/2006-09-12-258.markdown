@@ -1,6 +1,0 @@
----
-title: vous êtes occupés  
-layout: post
-author: lm
----
-<p>Aujourd'hui, il y a peu d'article. vous êtes occupés?</p>

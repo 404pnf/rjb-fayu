@@ -1,6 +1,0 @@
----
-title: J ai grand fin. 
-layout: post
-author: lm
----
-<p>J'ai pas encore pris mon dîner...</p>

@@ -1,7 +1,0 @@
----
-title: froid 
-layout: post
-author: lm
----
-<p>Demain la température ici est au-dessous de zéro degré ! incroyable , c’est au mois de novembre !<br />
-Je vais apporter le manteau ouaté ! </p>

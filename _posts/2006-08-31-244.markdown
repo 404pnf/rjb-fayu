@@ -1,7 +1,0 @@
----
-title: 大家学法语初级 6 by Français博工作室 
-layout: post
-author: lm
----
-<p><span class="inline inline-left"><a href="/fayu/node/184"><img src="http://blog.fltrp.com/fayu/files/images/6_0.preview.jpg" alt="chuji6" title="chuji6"  class="image image-preview " width="453" height="640" /></a><span class="caption" style="width: 451px;"><strong>chuji6</strong></span></span><br />
-<div class="image-clear"></div>

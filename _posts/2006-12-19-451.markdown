@@ -1,6 +1,0 @@
----
-title: jenny parle de nouvelles 
-layout: post
-author: lm
----
-<p>Aj，on parle de la vie quotidienne.</p>

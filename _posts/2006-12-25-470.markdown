@@ -1,6 +1,0 @@
----
-title: le noel 
-layout: post
-author: lm
----
-<p><span style="color: purple"><font face="Times New Roman">J’ai passé un noel très intéressant ! </font></span><span style="color: purple"><font face="Times New Roman">Hier j’ai bu avec des garçons et aujourd’hui à la chambre j’ai fait la cuisine pour des filles . nous avons trop mangé , et après le dîner , nous avons joué un jeu à l’origine d’un feuilleton coréen . drôle ! nous faisions ça pour décider qui allait laver des bols . je déteste laver des bols , je ne lave jamais de bols . </font></span></p>
