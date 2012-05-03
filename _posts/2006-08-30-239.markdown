@@ -1,0 +1,11 @@
+---
+title: "demande d informations"
+author:
+category: 
+tags: 
+layout: post
+---
+Bonjour à tous!
+Y-a-il un livre concernant les maladies ou quoi?
+J'ai remarqué j'ai du mal à exprimer ma situation à un docteur quelques fois.
+

@@ -1,0 +1,13 @@
+---
+title: "hi"
+author:
+category: 
+tags: 
+layout: post
+---
+Hello!
+Nice to meet you,everyone!
+I am a newcomer who is fond of
+French.And I want to study it so I need practice.
+May all of you have a good time1
+

@@ -6,7 +6,8 @@ markdown: kramdown
 
 
 #permalink: /:categories/:year/:month/:day/:title 
-permalink: pretty
+permalink: /:year/:month/:day/:title 
+#permalink: pretty
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 

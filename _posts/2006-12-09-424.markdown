@@ -1,0 +1,11 @@
+---
+title: "jenny parle de nouvelles"
+author:
+category: 
+tags: 
+layout: post
+---
+il s'agit du tourisme aj.
+
+<a href="http://french.peopledaily.com.cn/Tourisme/5127727.html">source </a>
+

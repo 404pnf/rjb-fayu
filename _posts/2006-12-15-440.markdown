@@ -1,0 +1,9 @@
+---
+title: "garder"
+author:
+category: 
+tags: 
+layout: post
+---
+<font face="Times New Roman">On a perdu du temps libre ! il faut le chercher ! mais comment faire ?</font><font face="Times New Roman">Ne pas perdre le temps qu’on a maintenant , c’est le meilleur moyen de le garder ! </font><font face="Times New Roman"> </font><font face="Times New Roman">On a perdu l’amoureux , on est triste ! </font><font face="Times New Roman">On doit bien garder l’amoureux qui à côté de soi actuellement ! </font><font face="Times New Roman"> </font><font face="Times New Roman">Les perdus ne reviennent jamais !</font><font face="Times New Roman">Il n’y a pas de sens de les rechercher ! </font>
+

@@ -1,0 +1,16 @@
+---
+title: "有人愿意带我去这个活动么 "
+author:
+category: 
+tags: 
+layout: post
+---
+
+<a href="http://www.ccfpekin.org/auditorium/index.ip?locale=fr&rub=programme&srub=prog_actu&prog=prog_actu" title="" rel='external'>RETROSPECTIVE MARGUERITE DURAS</a>
+
+22日23日在法国文化中心
+
+这有个<a href="http://www.ccfpekin.org/actualites/index.ip?locale=fr" title="" rel='external'>海报</a>
+
+法国文化中心的网站搞得不好 他们应该用drupal之类的自由软件改善一下 ]]>
+

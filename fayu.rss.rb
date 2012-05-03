@@ -21,6 +21,12 @@ open('http://0.0.0.0/fayu.xml') do |http|
     end
     
     mytitle = title
+    mytitle=title.gsub('http://', '') # first one is mytitle=title.
+    mytitle=mytitle.gsub(/[*\[\]{}:"()'#：；！？（）=，,?! 《》|]/, ' ') # works
+    mytitle=mytitle.gsub(/^ +/, '')
+    mytitle=mytitle.gsub(/ +/, ' ')
+    mytitle=mytitle.gsub(/^$/, 'no title')
+
 
     # pubdae: 2012-02-16T14:36:54+08:00-id
     pubdate = item.date.xmlschema
