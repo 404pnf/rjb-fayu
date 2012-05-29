@@ -1,9 +1,0 @@
----
-title: "问好"
-author:
-category: 
-tags: 
-layout: post
----
-大家好！法语博客开通了！
-

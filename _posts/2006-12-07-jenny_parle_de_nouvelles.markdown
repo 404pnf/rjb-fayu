@@ -1,0 +1,10 @@
+---
+layout: post
+title: jenny parle de nouvelles
+---
+
+<p>on doit faire un mémoire de 4 ou 5 pages avant le 11 janvier<img src="/modules/tinymce/tinymce/jscripts/tiny_mce/plugins/emotions/images/smiley-yell.gif" /></p>
+<p>la nouvelle d&#39;aj est à propos de l&#39;internet.</p>
+<p>mot-clés:google,microsoft,bibliothèque numérique en ligne&#8230;</p>
+<p><a href="http://www.lemonde.fr/web/article/0,1-0@2-651865,36-842806@51-842808,0.html"> source</a></p>
+<p></p>

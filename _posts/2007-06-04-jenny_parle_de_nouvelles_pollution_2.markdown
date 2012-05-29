@@ -1,0 +1,10 @@
+---
+layout: post
+title: jenny parle de nouvelles pollution 2
+---
+
+<div>
+<p>Selon un rapport du Programme des Nations unies pour l&#39;environnement (PNUE) publié à la veille de la journée mondiale de l&#39;environnement: La fonte des glaces s&#39;est accélérée ces dernières décennies. La banquise de l&#39;Arctique a rétréci de  6 %à 7 % au cours des trente derniers hivers et de 10 à 12 % au cours des trente derniers étés .Dans la même période, la superficie des surfaces terrestres enneigées a diminué de 7 à 10 % dans l&#39;hémisphère nord, précise le rapport.</p>
+<p>Voir <a href="http://www.lemonde.fr/web/article/0,1-0@2-3244,36-918513@51-918516,0.html">l&#39;article </a></p>
+</div>
+<p></p>

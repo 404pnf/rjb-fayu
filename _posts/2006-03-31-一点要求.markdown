@@ -1,0 +1,7 @@
+---
+layout: post
+title: 一点要求
+---
+
+<p>n<br />nVeuillez écrire une petite introduction dans vos prochains articles : l&#8217;introduction française pour l&#8217;article chinois, l&#8217;introduction chinoise pour l&#8217;article français. ]]&gt;
+</p>

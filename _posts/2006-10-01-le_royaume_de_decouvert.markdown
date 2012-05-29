@@ -1,0 +1,8 @@
+---
+layout: post
+title: le royaume de decouvert
+---
+
+<p>pardon, je sais pas comment coller  les photos ici .<br />La place de découvert</p>
+<p>Le château miracle</p>
+<p>C’est les deux photos que j’ai prises du Royaume de découvert , les autres sont avec moi , donc , désolé !</p>

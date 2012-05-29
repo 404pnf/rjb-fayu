@@ -1,0 +1,10 @@
+---
+layout: post
+title: 大家学法语初级 3 by Français博工作室
+---
+
+<p>第三课-法语字母与语音</p>
+<p>1.	字母<br />1）	法语有26个字母：a b c d e f g  h i j k l m n / o p q r s t / u v w x y z<br />2）	其中a e i o u 为元音字母，其余为辅音字母。</p>
+<p>2.	音素<br />1）	法语共有36个音素，其中16个元音， 20个辅音。<br />2）	以下简单把36个音素划分为四组，以方便记忆：</p>
+<p><a href="/node/152"></a><strong>phonetique-1</strong></p>
+<p>3. 跟读练习：<br /><a href="/node/153"></a><strong>phonetique-2</strong></p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Bonsoir
+---
+
+<p>Bonsoir.<br />一直觉得法语很好听</p>
+<p>最近终于有机会报名参加夜校。刚刚学了一个星期。以后我会常来。<br />请大家帮助。</p>
+<p>Merci.</p>

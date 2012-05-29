@@ -1,0 +1,10 @@
+---
+layout: post
+title: jenny parle de nouvelles
+---
+
+<p>Bonne année pour tous!</p>
+<p>Hier soir, je suis allée chez une amie où il n&#39;y a pas d&#39;accès à l&#39;internet, voilà aj,je suis revenue.</p>
+<p>1.<a href="http://www.french.xinhuanet.com/french/2006-12/31/content_368741.htm">les publicités médicales </a></p>
+<p>2.<a href="http://www.french.xinhuanet.com/french/2006-12/31/content_368744.htm">les servies de connexion d&#39;internet </a></p>
+<p></p>

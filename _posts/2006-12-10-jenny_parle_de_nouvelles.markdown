@@ -1,0 +1,8 @@
+---
+layout: post
+title: jenny parle de nouvelles
+---
+
+<p> pourquoi les infos  en français sur les élections municipales de Taiwansont si difficiles à trouver, alors j&#39;aime bien en parler un peu.</p>
+<p>Mot-clés: élections municipales, sécession, Kuomindang(国民党),parti démocratique progressiste（民进党）  </p>
+<p></p>

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Fenouil et graine de fenouil——茴香和茴香籽
+---
+
+<p><img src="http://www.francaisblog.com/fy/images/fenouil_copy1.jpg" alt="fenouil" /></p>
+<p>这可是难住我了，找我们的法国实习生问了问，她也基本是一头雾水。只是告诉我fenouil是一种根茎，可以食用，其他的就基本说不清楚了。<br />n<br />n那就查字典吧，在<a href="http://www.fltrp.com/scrp/bookdetail.cfm?iBookNo=5819&amp;sYc=1-1" title="详细信息" rel='external'>《现代汉语规范词典》</a>上，对“茴香”一词的解释是：多年生草本植物，全株有强烈芳香气味，叶子羽状分裂，开黄色小花。果实长椭圆形，可以做调味香料，也可以做药材，嫩茎、叶可以食用，通称小茴香。原来如此。<br />n<br />n接着在<a href="http://www.fltrp.com/scrp/bookdetail.cfm?iBookNo=5182&amp;sYc=1-1" title="详细信息" rel='external'>《英法德日汉图解词典》</a>上，又找到了以下3张图片，
+<p><img src="http://www.francaisblog.com/fy/images/_copy23.jpg" alt="茴香根" /></p>
+<p><img src="http://www.francaisblog.com/fy/images/.bmp.file" alt="茴香茎叶" /></p>
+<p><img src="http://www.francaisblog.com/fy/images/_copy24.jpg" alt="茴香籽" /></p>
+<p>，分别是“茴香根”、“茴香茎叶”和“茴香籽”，也就是根、茎叶和果实的关系。<br />n<br />n可是为什么会有“茴香根”呢，中文的解释和“茴香根”一点关系都没有啊？？<br />n<br />n鉴于我们的国际友人说fenouil是一种可食的根茎，所以我又查了一下法文词典，结果Robert词典上的解释实在出乎我的意料：“fenouil : plante herbacée（草本的） à goût anisé (ombelliféracées), cultivée comme potagère ou aromatique, dont on consomme les graines comme condiment（作料） et la base charnue（多肉的） des pétioles（叶柄） comme légume. ”这个释义的最后一句话清晰明了地说明“法国人食用的是多肉的叶柄的根部”。<br />n<br />n这就是文化差异吧。 ]]&gt;
+</p>

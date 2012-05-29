@@ -1,0 +1,6 @@
+---
+layout: post
+title: nous sommes si pressés
+---
+
+<p>Aujourd&#39;hui, c&#39;est la rentrée du lycée. Il n&#39;y a rien de changer. On a passé un BTS blanc de l&#39;Etude de marché de la production touristique. évidemment, il est aussi difficile. Heureusement, je les ai bien révisés. Bien que je n&#39;ayais pas à répondre tous les questions, je me suis trouvée que celui-ci est moins dur que ceux dernières fois. L&#39;examen, il dure 5 heures, il a commencé à 8 heures du matin et terminé à 13 heures, mais je me suis trompée le temps. Mais ce n&#39;est pas grave. Pendant l&#39;examen, j&#39;avais trop faim. Mon ventre KOULOU KOULOU~~~~. Il reste 5 semaines du cours avant les examens finals. Courage ! Si vous trouverez les faux , n&#39;hesitez pas à les corriger. </p>

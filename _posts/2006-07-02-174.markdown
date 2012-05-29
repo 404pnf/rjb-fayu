@@ -1,9 +1,0 @@
----
-title: "Laquelle supportez-vous 你支持哪个队伍 "
-author:
-category: 
-tags: 
-layout: post
----
-
-

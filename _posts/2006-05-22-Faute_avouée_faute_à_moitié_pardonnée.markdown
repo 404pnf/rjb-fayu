@@ -1,0 +1,7 @@
+---
+layout: post
+title: Faute avouée faute à moitié pardonnée
+---
+
+<p>n<br />nAyant fait ses études à la ville, le fils d’un paysan supplie depuis un certain temps son père de remplacer la cabane en planches（木板小屋） qui sert de W.C. au fond du jardin, près de la rivière, par des toilettes modernes à l’intérieur de la ferme. Mais le vieux ne veut rien entendre.<br />nAlors un soir, le jeune homme décide d’en finir（结束，了结）, va jusqu’à la cabane, et d’un grand coup de pied il la balance dans la rivière. <br />nLe lendemain matin, le père entre dans la chambre de son fils :<br />n-	Dis-moi, mon gars, ça serait pas toi qui aurais foutu（做，扔，投） les chiottes（厕所） dans la rivière ?<br />n-	Non, papa…<br />n-	Attention, faute avouée, faute à moitié pardonnée. Souviens-toi, quand le fils à Mathieu a coupé la grosse branche du pommier, il l’a avoué et le Mathieu a pardonné. Alors je répète ma question : ça serait pas toi qui aurais foutu les chiottes dans la rivière ?<br />n-	Oui, papa, c’est moi…<br />nAlors le vieux l’empoigne, le sort du lit, et entreprend de lui flanquer une volée mémorable（要好好揍他一顿）.<br />nEt tandis que les coups pleuvent, le malheureux garçon supplie :<br />n-	Arrête, papa, arrête ! Tu m’avais dit, faute avouée faute pardonnée ! Tu avais même pris l’exemple du fils de Mathieu qui avait scié（锯，锯开） la branche du pommier…<br />n-	C’est pas du tout pareil ! crie le père en continuant de frapper. Parce que quand le fils à Mathieu a scié la grosse branche du pommier, le Mathieu il était pas dans le pommier ! ]]&gt;
+</p>

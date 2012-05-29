@@ -1,0 +1,10 @@
+---
+layout: post
+title: ! 'notre coin de francais le Sept.17 2006 '
+---
+
+<p>Aujourd&#39;hui, je suis tres honneur de vous raconter des histoires de la nature -  il s&#39;agit de la peuple, de la flore, de la mer, de la faune et de l&#39;environement.  Tout ca, on peut voir le programme televisuel du Magazine Geographique International, une serie de programme interesant et utile!  Normalement, chaque sujet est introduit separement dans le programme different.  Peut etre vous l&#39;avez vu beaucoup dans le TVB Pearl, ou bien dans des autres stations televisees.</p>
+<p>Par exemple, ce mardi soi, a 9 heures, il y a le Deep Jungle, une tres bon introduction de la foret bresilienne.  L&#39;homme de science volonte, reste dans la foret, observe les faits et gestes des animaux, les note.  Ces phenomenes naturels etaient filmes completement, et apres sont remontres dans le programme.  Ainsi, le vrai programme naturel!  On peut voir comment des guepes attaquent des envahisseurs, comment elles les repoussent; et puis d&#39;apres le programme, on peut savoir l&#39;habitude de l&#39;araignee nuisible, comment elle mange, comment elle se nourrire.  Tous les animaux ont leurs methodes protectives de soi-meme!  Pour obtenir la nourriture, la poisson nomme saut et mange des insectes dans l&#39;herbe sur la riviere!  Quels intelligents!  Vivre, la convenance!!</p>
+<p>En plus des sujets de mode vivre animaux, il y a aussi des autres.  Le Jeudi Soir, a 9 heurs, le &quot;Beyond Tomorrow&quot;, un programme qui s&#39;agit plus de la science, de la peuple surmonte.  &quot;Comment des hommes installent l&#39;outil special pour suivre a la trace des animaux - le lion, le leopard, la girafe etc&#8230;</p>
+<p>Selon moi, j&#39;aime beaucoup de cette serie.  Parce que j&#39;habite dans la ville, j&#39;ai moin de chance de savoir la nature! La pollution, les voitures, les immebles&#8230;je ne l&#39;aime pas!!</p>
+<p></p>

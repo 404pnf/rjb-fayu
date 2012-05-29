@@ -1,9 +1,0 @@
----
-title: "mal à comprendre"
-author:
-category: 
-tags: 
-layout: post
----
-Pour trouver un travail , il faut minimiser des autres ?
-

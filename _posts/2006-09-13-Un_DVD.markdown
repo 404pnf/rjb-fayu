@@ -1,0 +1,7 @@
+---
+layout: post
+title: Un DVD
+---
+
+<p>J&#39;ai acheté un DVD, son nom est Les Ailes De La Nature, le sous-titres et le voix sont en français. et il contient 6 films: Microcosmos, Le Peuple De L&#39;herbe, Le Peuple Migrateur, Himalaya, Le peuple Singe, Deep Blue. C&#39;est meilleur pour apprendre le français.<br />Vous peuvez l&#39;achèter si vous êtes en train de l&#39;apprendre.</p>
+<p>Bon courage !!!</p>

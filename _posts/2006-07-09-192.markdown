@@ -1,9 +1,0 @@
----
-title: "J ai grand fin."
-author:
-category: 
-tags: 
-layout: post
----
-J'ai pas encore pris mon dîner…
-

@@ -1,0 +1,10 @@
+---
+layout: post
+title: jenny parle de nouvelles
+---
+
+<p>Enfin,je suis revenue. La réunion a duré 3 jours, c&#39;était fatiguant.</p>
+<p>nouvelles:</p>
+<p>1.Tanjiaxuan rencontre Mme Royal</p>
+<p>2.nouvelle directrice de l&#39;Oms </p>
+<p></p>

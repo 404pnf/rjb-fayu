@@ -1,0 +1,9 @@
+---
+layout: post
+title: ! 'J arrive '
+---
+
+<p>Je compte apprendre le français ici!</p>
+<p> Actuellement, bien que je comprends seulement un peu de français, j&#39;apprendrai.</p>
+<p>&nbsp;</p>
+<p></p>

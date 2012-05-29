@@ -1,9 +1,0 @@
----
-title: "joyeux noel"
-author:
-category: 
-tags: 
-layout: post
----
-joyeux noel a tous ici .
-

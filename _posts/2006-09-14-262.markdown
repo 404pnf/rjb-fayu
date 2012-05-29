@@ -1,9 +1,0 @@
----
-title: "la paris –la culture et la visite de Paris"
-author:
-category: 
-tags: 
-layout: post
----
-Sortez le bienvenv 
-

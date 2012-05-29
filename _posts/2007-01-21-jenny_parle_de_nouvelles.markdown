@@ -1,0 +1,10 @@
+---
+layout: post
+title: jenny parle de nouvelles
+---
+
+<p>Salut, mes amis. Hier j&#39;ai fait les achats, puisque la fête de printemps s&#39;approche, les articles dans de grands magasins sont en solde. J&#39;étais épuisée, voilà pourquoi je n&#39;ai pas enregistré ma nouvelle quotidienne. </p>
+<p>Aj, je suis revenue avec 2 nouvelles:</p>
+<p>1.<a href="http://www.french.xinhuanet.com/french/2007-01/21/content_377640.htm">les pourparler à 6</a></p>
+<p>2.<a href="http://www.lemonde.fr/web/article/0,1-0@2-3222,36-857822@51-856235,0.html">Hillary Clinton</a> </p>
+<p></p>

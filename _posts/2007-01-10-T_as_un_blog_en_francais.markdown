@@ -1,0 +1,7 @@
+---
+layout: post
+title: ! 'T as un blog en francais '
+---
+
+<p>Ces jours ci, je me prends <strike>beaucoup</strike> trop de temps pour perfectionner mon nouveau blog. Il faut avouer que je sois carrement folle!! Pour les decos et pour les articles. Si tu es un mec, tu ne peut pas comprendre pourquoi un blog peut-il etre si attirant&#8230;^^&#39; Mais, bien qu&#39;il soit beau (au moins, je pense&#8230;) Je ne crois pas qu&#39;il y ait beaucoup de personne qui sont deja y alle. Parce que la plupart de mes copines ne parlent pas francais. Donc&#8230;un peu triste pour ca. <br /><font color="#ff6699"><strong>Je vous donne l&#39;adresse de ce blog ici:<br /></strong><sub><a href="http://www.tudou.com/home/tifa2006">http://www.tudou.com/home/tifa2006</a><br /></sub></font>Je souhaite que vous puissiez y aller, et que on puisse echanger des pensees.<br />Je y vous attende&#8230;<img src="/modules/tinymce/tinymce/jscripts/tiny_mce/plugins/emotions/images/smiley-wink.gif" width="18" height="18" /> <br /><strong><img src="http://album.sina.com.cn/pic/4bc9ca8e02000ies" width="50" height="59" /> </strong><!-- --><img src="http://secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-sina2006&amp;cg=0" width="1" height="1" /> <strong>ps:  </strong>S<em>i tu as un blog comme ca, n&#39;hesite pas de echanger avec moi, s.t.p!!</em></p>
+<p></p>

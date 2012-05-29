@@ -1,0 +1,7 @@
+---
+layout: post
+title: Hello Kitty has no mouth
+---
+
+<p><font size="1" color="#d16587"><strong>Je trouve bizarre que Hello Kitty ne parle quasiment JAMAIS!! <br />Oui, je ne sais pas ou vient-elle, et je ne sais pas si elle pouvait faire<br />une autre chose sauf rire comme ce que sur sa logo&#8230;<br />Enfin, on trouve que HELLO KITTY n&#39;a pas la bouche&#8230;^^&#39; <a href="http://www.tudou.com/home/user_viewDiary.php?vlog_id=74342" title="http://www.tudou.com/home/user_viewDiary.php?vlog_id=74342">clic</a></strong></font></p>
+<p></p>

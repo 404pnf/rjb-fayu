@@ -1,0 +1,8 @@
+---
+layout: post
+title: je vous dis comment rencontrer des francais
+---
+
+<p>mon   ami  m&#39;a   donne un   site   ,  <a href="http://www.meetic.com.cn/">www.meetic.com.cn</a>,   c&#39;est  un  site  global  pour  le  mariage  ,mais  n&#39;hesitez  pas  ,   sur   ce  site  ,  il  y   a  pas  mal  de   jeunes   qui   veulent   faire   des  rencontres   comme  nous,   je   le   repete  ,  seulement   pour   rencontrer   des  amis,neanmoins   il   existe   aussi   des   gens    tres   ennuyeux,   vous   pouvez   les   negliger   a   votre   guise.  ici ,   vous  pouvez   chercher   des   francais  pour  pratiquer     le   francais  ,   si   vous  vous   comprendre   parfaitement,   vous   pouvez   bavarder   avec   lui  ou   elle    sur   msn.</p>
+<p>tout  le   monde   peut  l&#39;essayer,  c&#39;est  une   occasion     tres  bonne</p>
+<p></p>

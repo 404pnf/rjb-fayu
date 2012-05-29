@@ -1,0 +1,7 @@
+---
+layout: post
+title: ! '地址更换通知 '
+---
+
+<p>n我们的法语博客现在正在改版，新的地方大家可以随便注册，发表文章哦。<br />n欢迎光临我们的新家<a href="http://blog.fltrp.com/fayu" title="" rel='external'>法语博客</a><br />nNous avons déménagé, et bienvenus à notre <a href="http://blog.fltrp.com/fayu" title="Français blog" rel='external'>nouveau site</a>. ]]&gt;
+</p>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: 大家学法语中级 5 by Françaisblog 工作室
+---
+
+<p>I 句型<br />1. 点菜，点饮料<br />Je voudrais…s’il vous plaît.</p>
+<p>2. 结账<br />Garçon, l’addition, s’il vous plaît.</p>
+<p>3. 表达价钱<br />–	Ça fait combien ?<br />–	Ça fait 2 euros 20.</p>
+<p>II 对话<br />Garçon : Bonjour, Madame.<br />Cliente : Bonjour, Monsieur.<br />Garçon : Vous désirez ?<br />Cliente : Je voudrais un cappuccino s’il vous plaît.</p>
+<p>Cliente : Garçon, l’addition, s’il vous plaît.<br />Garçon : Ça fait 2 euros 20.<br />Cliente : Voilà, vous pouvez garder la monnaie.<br />Garçon : Merci Madame.</p>
+<p>III 词汇<br />un café 咖啡<br />un café noir 黑咖啡<br />un expresso 浓缩咖啡<br />un cappuccino 卡布奇诺<br />un café crème / un crème 奶油咖啡<br />un café au lait 牛奶咖啡</p>
+<p>un thé 茶<br />un thé vert 绿茶<br />un thé noir 红茶<br />une camomille 菊花茶<br />un thé au jasmin 茉莉花茶<br />un thé au citron 柠檬茶<br />un thé au lait 奶茶</p>
+<p>un jus de fruits 果汁<br />un jus d’orange 橙汁<br />un jus de pomme 苹果汁<br />un jus de tomate 番茄汁<br />un jus de pamplemousse 西柚汁</p>

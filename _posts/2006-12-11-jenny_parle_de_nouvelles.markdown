@@ -1,0 +1,10 @@
+---
+layout: post
+title: jenny parle de nouvelles
+---
+
+<p>La reprise du pourparler à six, qui semble intéresse bcp notre prof.</p>
+<p>Mot-clés: pourparler à six,essais nucléaire, </p>
+<p>une expression à retenir: revenir à ses promesses, c&#39;est à dire se dédire.</p>
+<p><a href="http://www.lemonde.fr/web/article/0,1-0@2-3216,36-844160@51-842147,0.html">source </a></p>
+<p></p>

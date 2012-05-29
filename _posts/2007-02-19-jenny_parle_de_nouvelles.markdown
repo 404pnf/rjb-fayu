@@ -1,0 +1,9 @@
+---
+layout: post
+title: jenny parle de nouvelles
+---
+
+<p>Aj, je ne suis pas en bonne humeur, voilà quand même des nouvelles.</p>
+<p>1. le Sénat américain rejette le texte critiquant le plan de Bush</p>
+<p>2.Nicholas Sarkozy Vs Ségolène Royal </p>
+<p></p>
