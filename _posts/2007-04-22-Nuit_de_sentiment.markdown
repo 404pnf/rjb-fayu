@@ -3,20 +3,34 @@ layout: post
 title: Nuit de sentiment
 ---
 
-<p>Je n&#39;ai pas pensé .</p>
-<p>Mais je vraiment ai fait </p>
-<p>&#8230;&#8230; </p>
-<p>Je n&#39;ai pas su est aucune raison.</p>
-<p>Parce que étais déjà  las de se </p>
-<p>sentait ensemble ou le seul?</p>
-<p>Je ne sais pas !!!</p>
-<p>mais pourquoi je n&#39;ai pas pensé a-</p>
-<p>t-je la nécessité à penser je suis </p>
-<p>injuste au votre?</p>
-<p>Ceci déjà pourrait s&#39;avérer que je </p>
-<p>ne t&#39;ai pas aimé ?</p>
-<p>Que la larme peut représenter ?</p>
-<p>Représente-t-elle le  regret ?</p>
-<p>Ou n&#39;abandonner pas avec toi séparé ?</p>
-<p>Débuts avant l&#39;histoire ,tu as m&#39;dit le fini  de l&#39;histoire.</p>
-<p></p>
+Je n'ai pas pensé .
+
+Mais je vraiment ai fait
+
+……
+
+Je n'ai pas su est aucune raison.
+
+Parce que étais déjà  las de se
+
+sentait ensemble ou le seul?
+
+Je ne sais pas !!!
+
+mais pourquoi je n'ai pas pensé a-
+
+t-je la nécessité à penser je suis
+
+injuste au votre?
+
+Ceci déjà pourrait s'avérer que je
+
+e t'ai pas aimé ?
+
+Que la larme peut représenter ?
+
+Représente-t-elle le  regret ?
+
+Ou n'abandonner pas avec toi séparé ?
+
+Débuts avant l'histoire ,tu as m'dit le fini  de l'histoire.

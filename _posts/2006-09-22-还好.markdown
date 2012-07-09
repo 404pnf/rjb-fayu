@@ -3,4 +3,4 @@ layout: post
 title: 还好
 ---
 
-<p>S’excuser,manquer de contenu.</p>
+S’excuser,manquer de contenu.

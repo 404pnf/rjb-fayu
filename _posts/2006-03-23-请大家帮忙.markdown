@@ -3,5 +3,20 @@ layout: post
 title: 请大家帮忙
 ---
 
-<p>nChinese   -   chinois<br />nMathematics   -   mathématiques<br />nEnglish   -   anglais<br />nPolitics   -   politique<br />nHistory(Chinese and world)   -   hisoire de la Chine et du monde<br />nGeography(Chinese and world)   -   géographie de la Chine et du monde<br />nPhysics and Chemistry   -   Physique et Chimie<br />nBiology   -   biologie<br />ngraduate Major &amp; Degree: English, Bachelor of Arts    -   dipl??mé de licence ès lettres en anglais ]]&gt;
-</p>
+Chinese   -   chinois
+
+Mathematics   -   mathématiques
+
+English   -   anglais
+
+Politics   -   politique
+
+History(Chinese and world)   -   hisoire de la Chine et du monde
+
+Geography(Chinese and world)   -   géographie de la Chine et du monde
+
+Physics and Chemistry   -   Physique et Chimie
+
+Biology   -   biologie
+
+graduate Major & Degree: English, Bachelor of Arts    -   dipl??mé de licence ès lettres en anglais 

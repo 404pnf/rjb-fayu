@@ -1,15 +1,38 @@
 ---
 layout: post
-title: ! '指教指教 '
+title: 指教指教
 ---
 
-<p>请高手帮我修改修改;-）</p>
-<p>Apres ton depart, je veux que je te manque. Et quand je te manque, n&#39;oublie pas que tu me manque aussi.<br />离开之后，我想你不要忘记一件事：不要忘记想念我。想念我的时候，不要忘记我也在想念你。</p>
-<p>Je t&#39;aime&#8230;Et pour ton bonheure, je peut abandonner tout, y compris toi!<br />我爱你，为了你的幸福，我愿意放弃一切&#8211;包括你。</p>
-<p>Dans la vie, certaines sont destiné à attendre quelqu&#39;uns, au contraire, les autres ont la destinée d&#39;être attendu.<br />有些人注定是等待别人的，有些人是注定被人等的。</p>
-<p>Une fois que rencontre, toujours mieux que ne se rencontre jamais.<br />曾经相遇，总胜过从未碰头。</p>
-<p>La solitude n&#39;est pas naturelle, elle commence au moment ou tu aime quelqu&#39;un.<br />孤单不是与生俱来，而是由你爱上一个人的那一刻开始。</p>
-<p>C&#39;est l&#39;amour qui fait l&#39;oubli de temps. Et le temps aussi peut fait l&#39;oubli d&#39;amour.<br />爱情使人忘记时间，时间也使人忘记爱情。</p>
-<p>L&#39;amour c&#39;est comme boire un vin empoisonné en souriant<br />爱情，原来是含笑饮毒酒。</p>
-<p>L&#39;amour est pas compliqué. c&#39;est toujours deux mots: Je t&#39;aime, je t&#39;haïr, laisse tomber, ca va et excuse-moi.<br />爱情本来并不复杂，来来去去不过三个字，不是我爱你，我恨你，便是算了吧。你好吗？对不起。</p>
-<p></p>
+请高手帮我修改修改;-）
+
+Apres ton depart, je veux que je te manque. Et quand je te manque, n'oublie pas que tu me manque aussi.
+
+离开之后，我想你不要忘记一件事：不要忘记想念我。想念我的时候，不要忘记我也在想念你。
+
+Je t'aime…Et pour ton bonheure, je peut abandonner tout, y compris toi!
+
+我爱你，为了你的幸福，我愿意放弃一切–包括你。
+
+Dans la vie, certaines sont destiné à attendre quelqu'uns, au contraire, les autres ont la destinée d'être attendu.
+
+有些人注定是等待别人的，有些人是注定被人等的。
+
+Une fois que rencontre, toujours mieux que ne se rencontre jamais.
+
+曾经相遇，总胜过从未碰头。
+
+La solitude n'est pas naturelle, elle commence au moment ou tu aime quelqu'un.
+
+孤单不是与生俱来，而是由你爱上一个人的那一刻开始。
+
+C'est l'amour qui fait l'oubli de temps. Et le temps aussi peut fait l'oubli d'amour.
+
+爱情使人忘记时间，时间也使人忘记爱情。
+
+L'amour c'est comme boire un vin empoisonné en souriant
+
+爱情，原来是含笑饮毒酒。
+
+L'amour est pas compliqué. c'est toujours deux mots: Je t'aime, je t'haïr, laisse tomber, ca va et excuse-moi.
+
+爱情本来并不复杂，来来去去不过三个字，不是我爱你，我恨你，便是算了吧。你好吗？对不起。

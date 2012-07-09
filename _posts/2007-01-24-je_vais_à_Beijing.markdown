@@ -3,6 +3,6 @@ layout: post
 title: je vais à Beijing
 ---
 
-<p>demain je vais au Beijing pour un entretient , c&#39;est la première fois que je vais à la capitale , je suis ravie . j&#39;ai cherché les bus à ma destination , compliqué ! </p>
-<p>bonne chance à moi .</p>
-<p></p>
+demain je vais au Beijing pour un entretient , c'est la première fois que je vais à la capitale , je suis ravie . j'ai cherché les bus à ma destination , compliqué !
+
+bonne chance à moi .

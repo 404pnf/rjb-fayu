@@ -3,4 +3,6 @@ layout: post
 title: rien
 ---
 
-<p>rien à dire , je suis déprimée aj . trop de devoirs à faire , pas de temps pour écrire un texte .<br />désolé ! </p>
+rien à dire , je suis déprimée aj . trop de devoirs à faire , pas de temps pour écrire un texte .
+
+désolé !

@@ -3,10 +3,14 @@ layout: post
 title: vacances
 ---
 
-<p>Enfin, après 1.5 heures de vol, je suis rentrée chez moi.Plein de remerciement à faire,</p>
-<p>Merci à mon copin qui s&#39;est levé à 5 heures du matin； </p>
-<p>merci à mon père qui m&#39;a rejoint à l&#39;aéroport;</p>
-<p>merci à ma mère qui a préparé un repas copieux à la maison. </p>
-<p>Je suis très fatiguée maintenant, le lit m&#39;attire beaucoup, </p>
-<p>donc, les nouvelles,à demain. </p>
-<p></p>
+Enfin, après 1.5 heures de vol, je suis rentrée chez moi.Plein de remerciement à faire,
+
+Merci à mon copin qui s'est levé à 5 heures du matin；
+
+merci à mon père qui m'a rejoint à l'aéroport;
+
+merci à ma mère qui a préparé un repas copieux à la maison.
+
+Je suis très fatiguée maintenant, le lit m'attire beaucoup,
+
+donc, les nouvelles,à demain.

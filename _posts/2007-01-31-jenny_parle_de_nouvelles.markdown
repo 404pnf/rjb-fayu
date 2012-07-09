@@ -3,8 +3,12 @@ layout: post
 title: jenny parle de nouvelles
 ---
 
-<p>on entre directement dans le vif sujet du jour:</p>
-<p>1.<a href="http://www.lemonde.fr/web/article/0,1-0@2-3234,36-861720@51-844321,0.html">chute de la Bourse de Shanghai</a>:il semble que l&#39;économie de cette ville jouit d&#39;une grande importance dans le monde entier, puisque cette nouvelle est même apparu dans le monde. <br />Je viens de décider d&#39;acheter quelques actions comme investissement, comme ca, il me faut bien réfléchir avant d&#39;agir.</p>
-<p>2.le parti KMT n&#39;est pas d&#39;accord avec la désinisation,c&#39;est à dire les changements dans les manuels lycéens dont on a mentionné il y a quelques jours. Il ne faut pas que les faits historiques soient distorsés par des forces politiques de quelle ou quelle famille, on a besoin d&#39;une histoire pure et objective. sinon, cela confusera la valeur des adolescents qui n&#39;ont pas vecu personnellement la période.</p>
-</p>
-<p></p>
+on entre directement dans le vif sujet du jour:
+
+1.
+
+[chute de la Bourse de Shanghai](http://www.lemonde.fr/web/article/0,1-0@2-3234,36-861720@51-844321,0.html):il semble que l'économie de cette ville jouit d'une grande importance dans le monde entier, puisque cette nouvelle est même apparu dans le monde. 
+
+Je viens de décider d'acheter quelques actions comme investissement, comme ca, il me faut bien réfléchir avant d'agir.
+
+2.le parti KMT n'est pas d'accord avec la désinisation,c'est à dire les changements dans les manuels lycéens dont on a mentionné il y a quelques jours. Il ne faut pas que les faits historiques soient distorsés par des forces politiques de quelle ou quelle famille, on a besoin d'une histoire pure et objective. sinon, cela confusera la valeur des adolescents qui n'ont pas vecu personnellement la période.

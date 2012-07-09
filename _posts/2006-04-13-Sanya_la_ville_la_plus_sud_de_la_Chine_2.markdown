@@ -1,7 +1,74 @@
 ---
 layout: post
-title: ! 'Sanya la ville la plus sud de la Chine 2 '
+title: Sanya la ville la plus sud de la Chine 2
 ---
 
-<p> belles photos</b>.<br />n<br />n<a href="http://www.francaisblog.com../images/lydieplage.jpg" rel='external'><img height="200" width="220"></a><b>17/01/06 </b><br />nDépart sur le vol de China Southern air（9h00）<br />nArrivée à l&#8217;aéroport de Sanya（13h00）<br />nArrivée à l&#8217;hôtel Cactus（仙人掌酒店）<br />n<br />nDéjeuner au Macdonald&#8217;s au centre de la ville<br />nAchat de quelques fruits au marché agroalimentaire No1<br />nUn premier coup d&#8217;œil de la mer Dadonghai （大东海）<br />n<br />nDîner à l&#8217;hôtel<br />nNatation dans la piscine de l&#8217;hôtel<br />n<br />n<b>18/01/06</b><br />nPromenade sur la plage de la Baie Yalong（亚龙湾）<br />nVisite de la Place de la Baie Yalong<br />nVisite du Musée des coquillages （贝壳博物馆）<br />n<br />nPromenade dans la montagne bouddhique Nanshan（南山）<br />nDéjeuner végétarien à Nanshan <br />nVisite du site « Bout du monde »（天涯海角）<br />n<br />nDîner de fruits de mer et de poissons dans un quartier de restaurants en plein air （海鲜大排档）<br />n<br />n<b>19/01/06</b><br />nExploration de l&#8217;île de Wuzhizhou（蜈支洲岛）<br />nDéjeuner sur l&#8217;île<br />nPlongeon <br />n<br />n<b>20/01/06</b><br />nVisite de la Vallée des Papillons（蝴蝶谷）<br />nAdieux à la Baie Yalong<br />n<br />nDescendre à l&#8217;auberge Nanfeng（南风休闲度假屋）<br />nFaire des courses<br />nPromenade sur la Plage des Cocotiers（椰梦长廊）<br />nPromenade au crépuscule sur la plage Dadonghai<br />nDîner de fruits de mer et de poissons<br />nFaire des courses<br />n<br />n<b>21/01/06</b><br />n6h30  Départ pour l&#8217;aéroport de Sanya<br />n8h00  Décollage de l&#8217;avion pour Beijing<br />n12h00  Arrivée à Beijing ]]&gt;
-</p>
+belles photos.
+
+[](http://www.francaisblog.com../images/lydieplage.jpg)17/01/06
+
+Départ sur le vol de China Southern air（9h00）
+
+Arrivée à l’aéroport de Sanya（13h00）
+
+Arrivée à l’hôtel Cactus（仙人掌酒店）
+
+Déjeuner au Macdonald’s au centre de la ville
+
+Achat de quelques fruits au marché agroalimentaire No1
+
+Un premier coup d’œil de la mer Dadonghai （大东海）
+
+Dîner à l’hôtel
+
+Natation dans la piscine de l’hôtel
+
+18/01/06
+
+Promenade sur la plage de la Baie Yalong（亚龙湾）
+
+Visite de la Place de la Baie Yalong
+
+Visite du Musée des coquillages （贝壳博物馆）
+
+Promenade dans la montagne bouddhique Nanshan（南山）
+
+Déjeuner végétarien à Nanshan 
+
+Visite du site « Bout du monde »（天涯海角）
+
+Dîner de fruits de mer et de poissons dans un quartier de restaurants en plein air （海鲜大排档）
+
+19/01/06
+
+Exploration de l’île de Wuzhizhou（蜈支洲岛）
+
+Déjeuner sur l’île
+
+Plongeon 
+
+20/01/06
+
+Visite de la Vallée des Papillons（蝴蝶谷）
+
+Adieux à la Baie Yalong
+
+Descendre à l’auberge Nanfeng（南风休闲度假屋）
+
+Faire des courses
+
+Promenade sur la Plage des Cocotiers（椰梦长廊）
+
+Promenade au crépuscule sur la plage Dadonghai
+
+Dîner de fruits de mer et de poissons
+
+Faire des courses
+
+21/01/06
+
+6h30  Départ pour l’aéroport de Sanya
+
+8h00  Décollage de l’avion pour Beijing
+
+12h00  Arrivée à Beijing 

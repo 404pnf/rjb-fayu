@@ -3,7 +3,10 @@ layout: post
 title: jenny parle de nouvelles
 ---
 
-<p>1.panne de connection d&#39;internet à cause du tremblement de terre de Taiwan. </p>
-<p>2.la condamnation à mort de Saddam.</p>
-<p>3. pas d&#39;examen pour la littérature mondiale de la fin de semestre&#8230;bonne nouvelle<img src="/modules/tinymce/tinymce/jscripts/tiny_mce/plugins/emotions/images/smiley-smile.gif" /> </p>
-<p></p>
+1.panne de connection d'internet à cause du tremblement de terre de Taiwan.
+
+2.la condamnation à mort de Saddam.
+
+3. pas d'examen pour la littérature mondiale de la fin de semestre…bonne nouvelle
+
+![](/modules/tinymce/tinymce/jscripts/tiny_mce/plugins/emotions/images/smiley-smile.gif)

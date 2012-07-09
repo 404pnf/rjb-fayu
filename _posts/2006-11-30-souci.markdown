@@ -3,4 +3,4 @@ layout: post
 title: souci
 ---
 
-<p>Je pense que je ne peux pas écrire un texte tous les jours , parce que je n’ai pas trop de chose à dire , c’est difficile d’inventer une histoire . je vais bien réfléchir comment continuer !</p>
+Je pense que je ne peux pas écrire un texte tous les jours , parce que je n’ai pas trop de chose à dire , c’est difficile d’inventer une histoire . je vais bien réfléchir comment continuer !

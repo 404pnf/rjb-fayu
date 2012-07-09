@@ -3,4 +3,8 @@ layout: post
 title: un jeu
 ---
 
-<p>Un jeu pour vous , c’est ce que le prof nous a proposé de le finir , mais je ne le peux pas .<br />Le premier mot : coche , chaque fois changez une lettre et à la fin le mot est ‘ route ’ .<br />Si vous pouvez le faire , écrivez la réponse au-dessous .</p>
+Un jeu pour vous , c’est ce que le prof nous a proposé de le finir , mais je ne le peux pas .
+
+Le premier mot : coche , chaque fois changez une lettre et à la fin le mot est ‘ route ’ .
+
+Si vous pouvez le faire , écrivez la réponse au-dessous .

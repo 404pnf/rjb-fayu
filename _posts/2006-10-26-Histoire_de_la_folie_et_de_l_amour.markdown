@@ -3,9 +3,24 @@ layout: post
 title: Histoire de la folie et de l amour
 ---
 
-<p>La Folie décida d&#39;inviter ses amis pour prendre un café chez elle.<br />Tous les invités y allèrent. Après le café, la Folie proposa :<br />-On joue à cache-cache ?<br />-Cache-cache ? C&#39;est quoi, ça ? demanda la Curiosité.<br />-Cache-cache est un jeu. Je compte jusqu&#39;à cent et vous vous cachez. Quand j&#39;ai fini de compter, je cherche et le premier que je trouve, sera le prochain à compter.</p>
-<p>Tous acceptèrent, sauf la Peur et la Paresse.<br />- 1, 2, 3,&#8230; la Folie commença à compter.</p>
-<p>L&#39;Empressement se cacha le premier, n&#39;importe où. La Timidité, timide comme toujours, se cacha dans une touffe d&#39;arbre. La Joie courut au milieu du jardin. La Tristesse commença à pleurer, car elle ne trouvait pas d&#39;endroit approprié pour se cacher. L&#39;Envie accompagna le Triomphe et se cacha près de lui derrière un rocher. La Folie continuait de compter tandis que ses amis se cachaient. Le Désespoir était désespéré en voyant que la Folie était déjà à soixante-neuf.</p>
-<p>CENT ! cria la Folie. Je vais commencer à chercher&#8230; La première à être trouvée fut la Curiosité, car elle n&#39;avait pu s&#39;empêcher de sortir de sa cachette pour voir qui serait le premier découvert. En regardant sur le côté, la Folie vit le Doute au-dessus à d&#39;une clôture ne sachant pas de quel côté il serait mieux caché. Et ainsi de suite, elle découvrit la Joie, la Tristesse, la Timidité&#8230;. Quand ils étaient tous réunis, la Curiosité à demanda :</p>
-<p>-Où est l&#39;Amour ? Personne ne l&#39;avait vu. La Folie commença à le chercher. Elle chercha au-dessus d&#39;une montagne, dans les rivières, au pied des rochers. Mais elle ne trouvait pas l&#39;Amour. Cherchant de tous côtés, la Folie vit un rosier, prit un bout de bois et commença à chercher parmi les branches,lorsque soudain elle entendit un cri. C&#39;était l&#39;Amour qui criait parce qu&#39;une épine lui avait crevé un oeil. La Folie ne savait pas quoi faire. Elle s&#39;excusa, implora l&#39;Amour pour avoir son pardon et alla jusqu&#39;à lui promettre de le suivre pour toujours. L&#39;Amour accepta les excuses.</p>
-<p>Aujourd&#39;hui, l&#39;Amour est aveugle et la Folie l&#39;accompagne toujours</p>
+La Folie décida d'inviter ses amis pour prendre un café chez elle.
+
+Tous les invités y allèrent. Après le café, la Folie proposa :
+
+-On joue à cache-cache ?
+
+-Cache-cache ? C'est quoi, ça ? demanda la Curiosité.
+
+-Cache-cache est un jeu. Je compte jusqu'à cent et vous vous cachez. Quand j'ai fini de compter, je cherche et le premier que je trouve, sera le prochain à compter.
+
+Tous acceptèrent, sauf la Peur et la Paresse.
+
+- 1, 2, 3,… la Folie commença à compter.
+
+L'Empressement se cacha le premier, n'importe où. La Timidité, timide comme toujours, se cacha dans une touffe d'arbre. La Joie courut au milieu du jardin. La Tristesse commença à pleurer, car elle ne trouvait pas d'endroit approprié pour se cacher. L'Envie accompagna le Triomphe et se cacha près de lui derrière un rocher. La Folie continuait de compter tandis que ses amis se cachaient. Le Désespoir était désespéré en voyant que la Folie était déjà à soixante-neuf.
+
+CENT ! cria la Folie. Je vais commencer à chercher… La première à être trouvée fut la Curiosité, car elle n'avait pu s'empêcher de sortir de sa cachette pour voir qui serait le premier découvert. En regardant sur le côté, la Folie vit le Doute au-dessus à d'une clôture ne sachant pas de quel côté il serait mieux caché. Et ainsi de suite, elle découvrit la Joie, la Tristesse, la Timidité…. Quand ils étaient tous réunis, la Curiosité à demanda :
+
+-Où est l'Amour ? Personne ne l'avait vu. La Folie commença à le chercher. Elle chercha au-dessus d'une montagne, dans les rivières, au pied des rochers. Mais elle ne trouvait pas l'Amour. Cherchant de tous côtés, la Folie vit un rosier, prit un bout de bois et commença à chercher parmi les branches,lorsque soudain elle entendit un cri. C'était l'Amour qui criait parce qu'une épine lui avait crevé un oeil. La Folie ne savait pas quoi faire. Elle s'excusa, implora l'Amour pour avoir son pardon et alla jusqu'à lui promettre de le suivre pour toujours. L'Amour accepta les excuses.
+
+Aujourd'hui, l'Amour est aveugle et la Folie l'accompagne toujours

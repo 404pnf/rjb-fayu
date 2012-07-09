@@ -3,4 +3,4 @@ layout: post
 title: je quitte pendant 4 jours
 ---
 
-<p><font size="3"><font face="Times New Roman">Je vais partir pour Shenyang , je reste là pendant 4 jours , c’est pas pratique de surfer sur Internet , alors , encore une fois je mange ma promesse ! </font></font></p>
+Je vais partir pour Shenyang , je reste là pendant 4 jours , c’est pas pratique de surfer sur Internet , alors , encore une fois je mange ma promesse !

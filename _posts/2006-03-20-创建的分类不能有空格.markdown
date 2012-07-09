@@ -3,8 +3,9 @@ layout: post
 title: 创建的分类不能有空格
 ---
 
-<p>创建的分类不能有空格 我给大家修改了 空格换成 . 就可以<br />n这个文章就发表在　bureau.francais</p>
-<p>nn
-<p>还需要在 administrator &#8211; weblog &#8211; 设置中 选 在首页发布 那个新建的分类</p>
-<p> ]]&gt;
-</p>
+创建的分类不能有空格 我给大家修改了 空格换成 . 就可以
+
+这个文章就发表在　bureau.francais
+
+还需要在 administrator – weblog – 设置中 选 在首页发布 那个新建的分类
+

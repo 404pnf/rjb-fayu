@@ -3,7 +3,8 @@ layout: post
 title: mon amis
 ---
 
-<p>Je suis heureux de vous connaitre.</p>
-<p>J&#39;apprends le français , et je trouve le français est petit difficile&#8230;&#8230;</p>
-<p>BONJOUR, TOUS LES MONDE</p>
-<p></p>
+Je suis heureux de vous connaitre.
+
+J'apprends le français , et je trouve le français est petit difficile……
+
+BONJOUR, TOUS LES MONDE

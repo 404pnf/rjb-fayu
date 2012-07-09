@@ -3,4 +3,16 @@ layout: post
 title: bonjour
 ---
 
-<p>bonjour,mademoiselle,madame et monsieur:<br />je suis un  estudiantin .j&#39;etudie francais en 3 moins .<br />mais je suis un abruti estudiantin ,je ne dis pas un complete mot .j&#39;ai tres désolation&#8230;<br />mais je n&#39;ai démoralisatio rien .<br />allez!allez!allez!<br />je sais l&#39;abouti pour que j&#39;aie alle !<br />bonne chance !</p>
+bonjour,mademoiselle,madame et monsieur:
+
+je suis un  estudiantin .j'etudie francais en 3 moins .
+
+mais je suis un abruti estudiantin ,je ne dis pas un complete mot .j'ai tres désolation…
+
+mais je n'ai démoralisatio rien .
+
+allez!allez!allez!
+
+je sais l'abouti pour que j'aie alle !
+
+bonne chance !

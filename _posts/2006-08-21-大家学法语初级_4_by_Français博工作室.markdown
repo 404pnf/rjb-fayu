@@ -3,12 +3,18 @@ layout: post
 title: 大家学法语初级 4 by Français博工作室
 ---
 
-<p><a href="/node/160"></a><strong>初级4-1</strong></p>
-<p><a href="/node/162"></a><strong>初级4-2</strong></p>
-<p><a href="/node/163"></a><strong>初级4-3</strong></p>
-<p><a href="/node/164"></a><strong>初级4-4</strong></p>
-<p><a href="/node/165"></a><strong>初级4-5</strong></p>
-<p><a href="/node/166"></a><strong>初级4-6</strong></p>
-<p><a href="/node/167"></a><strong>初级4-7</strong></p>
-<p><a href="/node/168"></a><strong>初级4-8</strong></p>
-<p></p>
+[](/node/160)**初级4-1**
+
+[](/node/162)**初级4-2**
+
+[](/node/163)**初级4-3**
+
+[](/node/164)**初级4-4**
+
+[](/node/165)**初级4-5**
+
+[](/node/166)**初级4-6**
+
+[](/node/167)**初级4-7**
+
+[](/node/168)**初级4-8**

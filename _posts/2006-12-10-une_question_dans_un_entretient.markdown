@@ -3,4 +3,20 @@ layout: post
 title: une question dans un entretient
 ---
 
-<p><font face="宋体, MS Song">Que pourriez-vous améliorer dans votre personnalité ?   <br /> le recruteur veut tester votre capacité à vous remettre en question. Pour répondre à cette question, il faut avoir pris conscience de ses lacunes. Mais attention, ne donnez pas de &quot;réponse sans retour&quot;, rédhibitoire car le poste pourrait vous passer sous le nez !<br />     J&#39;ai plus tendance à écouter qu&#39;à prendre la parole. Je devrais m&#39;exprimer davantage, d&#39;autant plus que j&#39;ai souvent de bonnes idées.<br />        Je ne suis pas diplomate.   <br />  Si je n&#39;aime pas quelqu&#39;un, cela se voit de suite sur mon visage. Ceci me porte souvent préjudice mais je ne sais pas mentir.<br />        Je ne lis pas assez.   <br />  La lecture n&#39;est pas un de mes passe-temps favoris mais je compte m&#39;abonner à un magazine et lire un roman par mois.<br />        J&#39;ai trop de répartie.   <br />  Je ferais mieux, comme dit le proverbe populaire &quot;tourner ma langue sept fois dans ma bouche avant de parler&quot;. Mais le c?té positif de ce problème, c&#39;est que je ne suis jamais pris au dépourvu.</font></p>
+Que pourriez-vous améliorer dans votre personnalité ?   
+
+ le recruteur veut tester votre capacité à vous remettre en question. Pour répondre à cette question, il faut avoir pris conscience de ses lacunes. Mais attention, ne donnez pas de "réponse sans retour", rédhibitoire car le poste pourrait vous passer sous le nez !
+
+     J'ai plus tendance à écouter qu'à prendre la parole. Je devrais m'exprimer davantage, d'autant plus que j'ai souvent de bonnes idées.
+
+        Je ne suis pas diplomate.   
+
+  Si je n'aime pas quelqu'un, cela se voit de suite sur mon visage. Ceci me porte souvent préjudice mais je ne sais pas mentir.
+
+        Je ne lis pas assez.   
+
+  La lecture n'est pas un de mes passe-temps favoris mais je compte m'abonner à un magazine et lire un roman par mois.
+
+        J'ai trop de répartie.   
+
+  Je ferais mieux, comme dit le proverbe populaire "tourner ma langue sept fois dans ma bouche avant de parler". Mais le c?té positif de ce problème, c'est que je ne suis jamais pris au dépourvu.

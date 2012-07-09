@@ -3,11 +3,18 @@ layout: post
 title: les chiens de ma mère
 ---
 
-<p>Ma mère a 3 chiens.</p>
-<p>Le premier s&#39;appelle Diudiu,un nom qu&#39;on a trouvé dans le dictionnaire par harsard. Il a 9 ans, c&#39;est un peu vieux, n&#39;est-ce pas. Pourtant, il est toujours en bonne santé. Avec un air noble, il n&#39;aime pas que les autres le caressent sans sa permission, bizarre,non?</p>
-<p> <img src="http://www.rijiben.org/wp-content/blogs/6/uploads//DSC00482.JPG" width="640" height="480" /></p>
-<p>La deuxième s&#39;appelle Barbie, un nom qu&#39;on a trouvé en suivant celui de sa mère:Noubi. Elle a 1 an, pourtant elle a déjà mère de 5 petits, cute, n&#39;est-ce pas? à propos, elle est vraiment noble, c&#39;est à dire son espèce.</p>
-<p><img src="http://www.rijiben.org/wp-content/blogs/6/uploads//DSC00486.JPG" width="640" height="480" /> </p>
-<p>La troisième s&#39;appelle Febie. Vous trouvez la règle? Voilà, c&#39;est une des filles de Barbie.  Elles se ressemblent?</p>
-<p><img src="http://www.rijiben.org/wp-content/blogs/6/uploads//DSC00484.JPG" width="640" height="480" /> </p>
-<p></p>
+Ma mère a 3 chiens.
+
+Le premier s'appelle Diudiu,un nom qu'on a trouvé dans le dictionnaire par harsard. Il a 9 ans, c'est un peu vieux, n'est-ce pas. Pourtant, il est toujours en bonne santé. Avec un air noble, il n'aime pas que les autres le caressent sans sa permission, bizarre,non?
+
+ 
+
+![](http://www.rijiben.org/wp-content/blogs/6/uploads//DSC00482.JPG)
+
+La deuxième s'appelle Barbie, un nom qu'on a trouvé en suivant celui de sa mère:Noubi. Elle a 1 an, pourtant elle a déjà mère de 5 petits, cute, n'est-ce pas? à propos, elle est vraiment noble, c'est à dire son espèce.
+
+![](http://www.rijiben.org/wp-content/blogs/6/uploads//DSC00486.JPG) 
+
+La troisième s'appelle Febie. Vous trouvez la règle? Voilà, c'est une des filles de Barbie.  Elles se ressemblent?
+
+![](http://www.rijiben.org/wp-content/blogs/6/uploads//DSC00484.JPG)

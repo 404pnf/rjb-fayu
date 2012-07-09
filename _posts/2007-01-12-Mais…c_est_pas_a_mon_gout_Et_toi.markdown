@@ -1,8 +1,0 @@
----
-layout: post
-title: ! 'Mais…c est pas a mon gout Et toi '
----
-
-<p>Je glissais sur <a href="http://www.toudou.com/">www.toudou.com</a> pour trouver quelques choses interesantes. Par hasard, j&#39;y ai vu un Video-Blog d&#39;<a href="http://www.tudou.com/programs/view/4ymTqvcYEv0/" title="http://www.tudou.com/programs/view/4ymTqvcYEv0/">une fille</a>. Il faut avouer qu&#39;elle soit carrement POP sur TOUDOU et peut-etre sur SINA. Elle nous fait connaissance par raconter ses histoires en une facon de DV. Oui&#8230;les gens aujourd&#39;hui deviennent plus en plus courageux&#8230;Meme on ne peux pas tout a fait agréer a ca. Mais on peux voir, elle est en train d&#39;etre celebre!! Au moins dans un certain cadre de nos vie quotidien. Et sous des acclamations et meme presqu&#39;autaut de grondement. cette nana-là est &quot;belle, jeunne et naive&quot; comme les gens y a dit&#8230; </p>
-<p>J&#39;admire son courage, mais&#8230; en tout cas, ca n&#39;est pas à mon gout!! Envie de savoir ce que tu en pense, stp.</p>
-<p></p>

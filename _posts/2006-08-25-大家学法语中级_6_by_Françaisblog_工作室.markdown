@@ -3,10 +3,70 @@ layout: post
 title: 大家学法语中级 6 by Françaisblog 工作室
 ---
 
-<p>A.Dialogue</p>
-<p>Lydie : Ah ! Enfin, te voila!<br />Thomas : Bonjour, Lydie.<br />Lydie : Bonjour, Thomas. Entre.<br />Thomas : Excuse-moi d’être en retard. Il y a eu des embouteillages sur la route.<br />Lydie : C’est pas grave.<br />Thomas : Tiens, c’est pour toi !<br />Lydie : Ah ! Elles sont magnifiques, ces fleurs. Merci beaucoup, c’est très gentil.<br />Thomas : Je t’en prie, ce n’est rien. J’ai encore quelque chose pour toi.<br />Lydie : Encore !<br />Thomas : Voilà !<br />Lydie : Qu’est-ce que c’est ? Je peux l’ouvrir ?<br />Thomas : Oui, bien sûr.<br />Lydie : Oh ! du thé chinois ! Merci, mais il ne fallait pas.</p>
-<p>B.Expression</p>
-<p>道歉<br />Pardon. (情节轻微)<br />Excuse-moi. // Excusez-moi.<br />Pardonne-moi./ / Pardonnez-moi.（比pardon情节严重）<br />Je suis (vraiment) désolé(e).<br />Excusez-moi d’être en retard / de vous déranger.</p>
-<p>原谅<br />Ce n’est pas grave.<br />Ça ne fait rien.<br />Je t’en prie. / Je vous en prie.</p>
-<p>致谢<br />Merci (bien / beaucoup).<br />Merci à toi / vous.<br />Merci pour ton cadeau / votre cadeau.<br />Merci de ta gentillesse / votre gentillesse.<br />Je te remercie. Je vous remercie.</p>
-<p>回应感谢<br />De rien.<br />Je t’en prie. // Je vous en prie.</p>
+A.Dialogue
+
+Lydie : Ah ! Enfin, te voila!
+
+Thomas : Bonjour, Lydie.
+
+Lydie : Bonjour, Thomas. Entre.
+
+Thomas : Excuse-moi d’être en retard. Il y a eu des embouteillages sur la route.
+
+Lydie : C’est pas grave.
+
+Thomas : Tiens, c’est pour toi !
+
+Lydie : Ah ! Elles sont magnifiques, ces fleurs. Merci beaucoup, c’est très gentil.
+
+Thomas : Je t’en prie, ce n’est rien. J’ai encore quelque chose pour toi.
+
+Lydie : Encore !
+
+Thomas : Voilà !
+
+Lydie : Qu’est-ce que c’est ? Je peux l’ouvrir ?
+
+Thomas : Oui, bien sûr.
+
+Lydie : Oh ! du thé chinois ! Merci, mais il ne fallait pas.
+
+B.Expression
+
+道歉
+
+Pardon. (情节轻微)
+
+Excuse-moi. // Excusez-moi.
+
+Pardonne-moi./ / Pardonnez-moi.（比pardon情节严重）
+
+Je suis (vraiment) désolé(e).
+
+Excusez-moi d’être en retard / de vous déranger.
+
+原谅
+
+Ce n’est pas grave.
+
+Ça ne fait rien.
+
+Je t’en prie. / Je vous en prie.
+
+致谢
+
+Merci (bien / beaucoup).
+
+Merci à toi / vous.
+
+Merci pour ton cadeau / votre cadeau.
+
+Merci de ta gentillesse / votre gentillesse.
+
+Je te remercie. Je vous remercie.
+
+回应感谢
+
+De rien.
+
+Je t’en prie. // Je vous en prie.

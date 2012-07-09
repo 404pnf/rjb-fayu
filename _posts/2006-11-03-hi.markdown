@@ -3,4 +3,12 @@ layout: post
 title: hi
 ---
 
-<p>Hello!<br />Nice to meet you,everyone!<br />I am a newcomer who is fond of<br />French.And I want to study it so I need practice.<br />May all of you have a good time1</p>
+Hello!
+
+Nice to meet you,everyone!
+
+I am a newcomer who is fond of
+
+French.And I want to study it so I need practice.
+
+May all of you have a good time1

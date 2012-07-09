@@ -3,8 +3,10 @@ layout: post
 title: jenny parle de nouvelles
 ---
 
-<p>Il y a longtemps qu&#39;on ne s&#39;est pas vu, me voilà revenue.</p>
-<p>Et les nouvelles, sans suivre les informations tous les jours, je me sens hors de la société internationale.</p>
-<p>La première nouvelle concerne la concurrence entre la Chine et l&#39;Occidental dans le domaine de la technologie de pointe.</p>
-<p>La deuxième parle de la déncléarisation de la Péninsule coréenne :les pourparler à six, le déblocage de fonds&#8230;</p>
-<p></p>
+Il y a longtemps qu'on ne s'est pas vu, me voilà revenue.
+
+Et les nouvelles, sans suivre les informations tous les jours, je me sens hors de la société internationale.
+
+La première nouvelle concerne la concurrence entre la Chine et l'Occidental dans le domaine de la technologie de pointe.
+
+La deuxième parle de la déncléarisation de la Péninsule coréenne :les pourparler à six, le déblocage de fonds…

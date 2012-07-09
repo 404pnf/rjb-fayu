@@ -3,4 +3,6 @@ layout: post
 title: fruit
 ---
 
-<p>Quel fruit est en saison mnt ? je ne peux pas choisir un fruit pour manger ces derniers jours .<br />Donnez-moi des conseils ! merci infiniment !</p>
+Quel fruit est en saison mnt ? je ne peux pas choisir un fruit pour manger ces derniers jours .
+
+Donnez-moi des conseils ! merci infiniment !

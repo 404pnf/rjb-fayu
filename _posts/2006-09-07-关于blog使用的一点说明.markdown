@@ -3,5 +3,20 @@ layout: post
 title: 关于blog使用的一点说明
 ---
 
-<p>为方便用户之间的交流，我们增加了<strong>更多个人信息</strong>的填写，您可以选择您的法语水平，留下您的个性介绍，联系方式等:<br />老用户登陆后可以在 我的帐户—编辑—更多个人信息 中修改。<br />新用户可以在注册时选择填写。</p>
-<p>Pour ajouter plus d&#39;information personnelle, veuillez suivre <strong> 我的帐户—编辑—更多个人信息 </strong>.<br />Les nouveaux-venus y ont droit en s&#39;inscrivant.</p>
+为方便用户之间的交流，我们增加了
+
+**更多个人信息**
+
+的填写，您可以选择您的法语水平，留下您的个性介绍，联系方式等:
+
+老用户登陆后可以在 我的帐户—编辑—更多个人信息 中修改。
+
+新用户可以在注册时选择填写。
+
+Pour ajouter plus d'information personnelle, veuillez suivre 
+
+**我的帐户—编辑—更多个人信息**
+
+.
+
+Les nouveaux-venus y ont droit en s'inscrivant.

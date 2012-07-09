@@ -3,5 +3,6 @@ layout: post
 title: j arrive
 ---
 
-<p>j&#39;ai entendu depuis longtemps le soit-disant Blog, mais c&#39;est la première fois que je l&#39;écrit.</p>
-<p>différamment de  la plupart de mes camarades qui cont choisi de travailler,je passe maintenant mes dernières vacances d&#39;été. </p>
+j'ai entendu depuis longtemps le soit-disant Blog, mais c'est la première fois que je l'écrit.
+
+différamment de  la plupart de mes camarades qui cont choisi de travailler,je passe maintenant mes dernières vacances d'été.

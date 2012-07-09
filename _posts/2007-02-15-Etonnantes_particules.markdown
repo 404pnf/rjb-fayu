@@ -3,6 +3,6 @@ layout: post
 title: Etonnantes particules
 ---
 
-<p>Bonjour à tous ! C&#39;est ma première participation au blog en dehors des articles. J&#39;apprends le chinois, une bien belle langue, c&#39;est sûr. </p>
-<p>Une des multiples questions que je me pose au sujet de la grammaire et de la syntaxe du chinois, c&#39;est le rôle et la fonction des particules comme a, ba, ne, etc. Si j&#39;ai bien compris, on les met en fin de phrase pour modifier le sens général d&#39;une phrase. Mais par exemple pour  &quot;a&quot;, j&#39;ai trouvé plusieurs sens différents. Je m&#39;y perds un peu. Quelqu&#39;un peut-il me donner les sens principaux de cette particule ? Merci d&#39;avance ! (désolé pour les caractères chinois, mon ordinateur ne peut pas les écrire&#8230;)</p>
-<p></p>
+Bonjour à tous ! C'est ma première participation au blog en dehors des articles. J'apprends le chinois, une bien belle langue, c'est sûr.
+
+Une des multiples questions que je me pose au sujet de la grammaire et de la syntaxe du chinois, c'est le rôle et la fonction des particules comme a, ba, ne, etc. Si j'ai bien compris, on les met en fin de phrase pour modifier le sens général d'une phrase. Mais par exemple pour  "a", j'ai trouvé plusieurs sens différents. Je m'y perds un peu. Quelqu'un peut-il me donner les sens principaux de cette particule ? Merci d'avance ! (désolé pour les caractères chinois, mon ordinateur ne peut pas les écrire…)

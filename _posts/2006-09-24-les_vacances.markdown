@@ -3,4 +3,8 @@ layout: post
 title: les vacances
 ---
 
-<p>les vacances de la fête nationale arrivera , avez-vous fait des plans de bien vous amuser ?<br />moi , je vais aller au parc ‘ 发现王国 ’ qui se trouve dans Jinshitan à Dalian . cùest un nouveay parc un peu comme le 	Disney . on m’a dit qu’il est très intéressant et magnifique .<br />attendez mes photos .</p>
+les vacances de la fête nationale arrivera , avez-vous fait des plans de bien vous amuser ?
+
+moi , je vais aller au parc ‘ 发现王国 ’ qui se trouve dans Jinshitan à Dalian . cùest un nouveay parc un peu comme le 	Disney . on m’a dit qu’il est très intéressant et magnifique .
+
+attendez mes photos .

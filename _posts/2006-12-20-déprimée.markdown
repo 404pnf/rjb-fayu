@@ -3,6 +3,4 @@ layout: post
 title: déprimée
 ---
 
-<p><font face="Times New Roman">5 camarades ont trouvé le travail , mes amis tous ont trouvé leur travail , seulement moi , je ne cherche pas le travail . mes amis , ils m’invitent plusieurs fois à dîner , je suis désolée ne pas les inviter . </font>
-<p><font face="Times New Roman">Ma maman veut que je travaille près de chez moi , donc c’est difficile pour moi à trouver un bon travail , ou au moins , un travail pas mal . je suis déprimée .</font></p>
-<p></p>
+5 camarades ont trouvé le travail , mes amis tous ont trouvé leur travail , seulement moi , je ne cherche pas le travail . mes amis , ils m’invitent plusieurs fois à dîner , je suis désolée ne pas les inviter .Ma maman veut que je travaille près de chez moi , donc c’est difficile pour moi à trouver un bon travail , ou au moins , un travail pas mal . je suis déprimée .

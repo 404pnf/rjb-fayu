@@ -1,15 +1,96 @@
 ---
 layout: post
-title: ! 'vous avez deja écouté cette chanson Comme d habitude '
+title: vous avez deja écouté cette chanson Comme d habitude
 ---
 
-<p>Cette chanson est intéressante. Mais ce chanteur est mort à percoter de l&#39;ampoule électrique en 1978.</p>
-<p>Comme d&#39;habitude</p>
-<p>Paroles et Musique: Gilles Thibault, Jacques Revaux, Claude François</p>
-<p>Je me lève et je te bouscule<br />Tu ne te réveilles pas comme d&#39;habitude<br />Sur toi je remonte le drap<br />J&#39;ai peur que tu aies froid comme d&#39;habitude<br />Ma main caresse tes cheveux<br />Presque malgré moi comme d&#39;habitude<br />Mais toi tu me tournes le dos<br />Comme d&#39;habitude</p>
-<p>Alors je m&#39;habille très vite<br />Je sors de la chambre comme d&#39;habitude<br />Tout seul je bois mon café<br />Je suis en retard comme d&#39;habitude<br />Sans bruit je quitte la maison<br />Tout est gris dehors comme d&#39;habitude<br />J&#39;ai froid, je relève mon col<br />Comme d&#39;habitude</p>
-<p>Comme d&#39;habitude, toute la journée<br />Je vais jouer à faire semblant<br />Comme d&#39;habitude je vais sourire<br />Comme d&#39;habitude je vais même rire<br />Comme d&#39;habitude, enfin je vais vivre<br />Comme d&#39;habitude</p>
-<p>Et puis le jour s&#39;en ira<br />Moi je reviendrai comme d&#39;habitude<br />Toi, tu seras sortie<br />Pas encore rentrée comme d&#39;habitude<br />Tout seul j&#39;irai me coucher<br />Dans ce grand lit froid comme d&#39;habitude<br />Mes larmes, je les cacherai<br />Comme d&#39;habitude</p>
-<p>Comme d&#39;habitude, même la nuit<br />Je vais jouer à faire semblant<br />Comme d&#39;habitude tu rentreras<br />Comme d&#39;habitude je t&#39;attendrai<br />Comme d&#39;habitude tu me souriras<br />Comme d&#39;habitude</p>
-<p>Comme d&#39;habitude tu te déshabilleras<br />Comme d&#39;habitude tu te coucheras<br />Comme d&#39;habitude on s&#39;embrassera<br />Comme d&#39;habitude</p>
-<p>Comme d&#39;habitude on fera semblant<br />Comme d&#39;habitude on fera l&#39;amour<br />Comme d&#39;habitude on fera semblant</p>
+Cette chanson est intéressante. Mais ce chanteur est mort à percoter de l'ampoule électrique en 1978.
+
+Comme d'habitude
+
+Paroles et Musique: Gilles Thibault, Jacques Revaux, Claude François
+
+Je me lève et je te bouscule
+
+Tu ne te réveilles pas comme d'habitude
+
+Sur toi je remonte le drap
+
+J'ai peur que tu aies froid comme d'habitude
+
+Ma main caresse tes cheveux
+
+Presque malgré moi comme d'habitude
+
+Mais toi tu me tournes le dos
+
+Comme d'habitude
+
+Alors je m'habille très vite
+
+Je sors de la chambre comme d'habitude
+
+Tout seul je bois mon café
+
+Je suis en retard comme d'habitude
+
+Sans bruit je quitte la maison
+
+Tout est gris dehors comme d'habitude
+
+J'ai froid, je relève mon col
+
+Comme d'habitude
+
+Comme d'habitude, toute la journée
+
+Je vais jouer à faire semblant
+
+Comme d'habitude je vais sourire
+
+Comme d'habitude je vais même rire
+
+Comme d'habitude, enfin je vais vivre
+
+Comme d'habitude
+
+Et puis le jour s'en ira
+
+Moi je reviendrai comme d'habitude
+
+Toi, tu seras sortie
+
+Pas encore rentrée comme d'habitude
+
+Tout seul j'irai me coucher
+
+Dans ce grand lit froid comme d'habitude
+
+Mes larmes, je les cacherai
+
+Comme d'habitude
+
+Comme d'habitude, même la nuit
+
+Je vais jouer à faire semblant
+
+Comme d'habitude tu rentreras
+
+Comme d'habitude je t'attendrai
+
+Comme d'habitude tu me souriras
+
+Comme d'habitude
+
+Comme d'habitude tu te déshabilleras
+
+Comme d'habitude tu te coucheras
+
+Comme d'habitude on s'embrassera
+
+Comme d'habitude
+
+Comme d'habitude on fera semblant
+
+Comme d'habitude on fera l'amour
+
+Comme d'habitude on fera semblant

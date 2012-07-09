@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ! 'Bonjour '
+title: Bonjour
 ---
 
-<p>Je m&#39;appelles Sabine.Je suis heureuse de vous connaitre.</p>
+Je m'appelles Sabine.Je suis heureuse de vous connaitre.

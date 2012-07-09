@@ -1,7 +1,28 @@
 ---
 layout: post
-title: ! '天若有情 天亦老 '
+title: 天若有情 天亦老
 ---
 
-<p>n<br />n爱是一种遇见，不能预期，也不能等待。<br />nL&#8217;amour est un hasard, on ne peut le prévenir, ni l&#8217;attendre.<br />n<br />n只有爱与不爱，没有次爱。我们不能退而求其次。Soit on aime, soit on n&#8217;aime pas. Il n&#8217;existe pas un amour du second rang. On ne doit pas se contenter d&#8217;un amour du second rang parce qu&#8217;on ne peut pas posséder l&#8217;amour qu&#8217;on veut.<br />n<br />n爱情和咳嗽一样，不能禁止。<br />nComme la toux, l&#8217;amour ne peut s&#8217;empêcher.<br />n<br />n人老了就怕面对爱情, 就如罗蜜欧与朱丽叶永远只能活在十八岁。<br />nQuand on devient âgé, on a peur d&#8217;aimer, comme si Roméo et Juliette ne pouvaient qu&#8217;avoir 18 ans.<br />n<br />n偷东西是罪恶的，但如果偷了一个人的心，则是快乐的。<br />nVoler les affaires d&#8217;autrui est un crime, mais voler le cœur de quelqu&#8217;un est une joie.<br />n<br />n悲悯, 是一种比爱更高贵的层次, 爱有时候是让自己开心, 悲悯却能让对方快乐。<br />nLa compassion est un sentiment plus noble que l&#8217;amour. Quand on aime quelqu&#8217;un, parfois c&#8217;est pour se rendre heureux, mais quand on compatit à quelqu&#8217;un, c&#8217;est pour rendre l&#8217;autre heureux. ]]&gt;
-</p>
+
+
+爱是一种遇见，不能预期，也不能等待。
+
+L’amour est un hasard, on ne peut le prévenir, ni l’attendre.
+
+只有爱与不爱，没有次爱。我们不能退而求其次。Soit on aime, soit on n’aime pas. Il n’existe pas un amour du second rang. On ne doit pas se contenter d’un amour du second rang parce qu’on ne peut pas posséder l’amour qu’on veut.
+
+爱情和咳嗽一样，不能禁止。
+
+Comme la toux, l’amour ne peut s’empêcher.
+
+人老了就怕面对爱情, 就如罗蜜欧与朱丽叶永远只能活在十八岁。
+
+Quand on devient âgé, on a peur d’aimer, comme si Roméo et Juliette ne pouvaient qu’avoir 18 ans.
+
+偷东西是罪恶的，但如果偷了一个人的心，则是快乐的。
+
+Voler les affaires d’autrui est un crime, mais voler le cœur de quelqu’un est une joie.
+
+悲悯, 是一种比爱更高贵的层次, 爱有时候是让自己开心, 悲悯却能让对方快乐。
+
+La compassion est un sentiment plus noble que l’amour. Quand on aime quelqu’un, parfois c’est pour se rendre heureux, mais quand on compatit à quelqu’un, c’est pour rendre l’autre heureux. 
