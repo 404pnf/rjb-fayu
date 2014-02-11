@@ -1,0 +1,108 @@
+---
+layout: post
+title: 大家学法语中级 4 by Français博工作室
+---
+
+部分动词变位（indicatif présent）
+
+être
+
+je suis
+
+tu es
+
+il(elle) est
+
+ous sommes
+
+vous êtes
+
+ils(elles) sont
+
+avoir
+
+j’ai
+
+tu as
+
+il(elle) a
+
+ous  avons
+
+vous  avez
+
+ils(elles) ont
+
+travailler
+
+je travaille
+
+tu travailles
+
+il(elle) travaille
+
+ous travaillons
+
+vous travaillez
+
+ils(elles) travaillent
+
+在此基础上，我们应该掌握下面的句子：
+
+Etre
+
+Je suis éditeur / éditrice.
+
+Tu es professeur.
+
+Il est grand / jeune / beau / sympa.
+
+Elle est petite / jeune / belle / sympas.
+
+Nous sommes chinois / chinoises.
+
+Vous êtes français / française(s).
+
+Ils sont célibataires.
+
+Elles sont mariées.
+
+(C’est mon collègue / ma collègue.
+
+Ce sont mes collègues.)
+
+Avoir
+
+J’ai un frère et une sœur.
+
+Tu as un fils et une fille.
+
+Il a des enfants.
+
+Elle a 27 ans.
+
+Nous avons des cours de français.
+
+Vous avez un appartement.
+
+Ils ont de l’argent.
+
+Elles ont de la chance.
+
+Travailler
+
+Je travaille dans une maison d’édition.
+
+Tu travailles dans l’édition.
+
+Il travaille pour une société d’édition.
+
+Elle travaille chez FLTRP.
+
+Nous travaillons beaucoup.
+
+Vous travaillez dur.
+
+Ils travaillent bien.
+
+Elles travaillent sur un livre / un projet.
